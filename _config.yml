@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Chong Zhang's Homepage
 description: zita-ch.github.io
 logo: /assets/Suzumiya.png
+show_downloads: false
