@@ -1,8 +1,8 @@
-## Welcome to My Page
-
-
-I am now working toward the Undergraduate degree at Tsinghua University, Beijing,China, where I have been majoring in measurement,control technology and instruments.
-My research interests include robot control, computer vision and signal processing.
+# Welcome to My Page
++ **Major:** measurement,control technology and instruments
++ **Location:** Tsinghua University, Beijing, China.
++ **Research interests:** 
+robot control, computer vision and signal processing.
 
 
 
