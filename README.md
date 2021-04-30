@@ -1,5 +1,5 @@
 ## Welcome to My Page
-![](myphoto.jpg)
+![](Suzumiya.jpg)
 
 
 ```markdown
