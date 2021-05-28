@@ -11,7 +11,7 @@ Tsinghua University, Beijing, China.
 Machine Learning, Robot Control, Computer Vision, and Signal Processing.    
 + **GPA and Rank:**   
 ***Major:*** 3.90/4.00 (3/63),    ***Minor:*** 4.00/4.00 (no rank)
-+ **Language:**
++ **Language:**   
 ***TOEFL: 106 (Reading: 30, Listening: 26, Speaking: 22, Writing: 28)***
 
 ------
