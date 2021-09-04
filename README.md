@@ -28,7 +28,7 @@ Machine Learning, Robot Control, and Signal Processing.
 ------
 ### **Core courses attended [grades]:** 
 
-+ ***Math and Physics:*** Calculus **[A+]**, Linear Algebra **[A]**, Probability and Statistics **[A]**, Introduction to Complex Analysis **[A]**, Physics (in English) **[A]**, Theoretical Mechanics (in English) **[A]**.
++ ***Math and Physics:*** Calculus **[A+]**, Linear Algebra **[A]**, Probability and Statistics **[A]**, Introduction to Complex Analysis **[A]**, Physics (in English) **[A]**, Theoretical Mechanics (in English) **[A]**, Fundamentals of Engineering Thermodynamics **[A]**.
 + ***Computer Science:*** Practice of Programming **[A]**, Data Structure **[A]**, Information Retrieval Technology **[A]**, Data Science and Technology Innovation Practice **[A+]**, Fundamentals of Machine Learning **[A]**, Information Visualization and Visual Analytics **[Pass, Graduate Course]**, Deep Learning **[B+, Graduate Course]**.
-+ ***Major Subject:*** Application of Mechanical Graphics **[A]**, Fundamentals of Engineering Thermodynamics **[A]**, Micro-electromechanical System Design **[A]**, Electrical Engineering and Electronics **[A-]**, Measurement Circuits and Systems **[A]**, Special Experiments of Electromechanical System **[A+]**, Error Theory and Data Processing **[A]**, Measurement and Test Technology **[A]**, Fundamental Technology for Instruments Design **[A+]**, Precision Instruments Design **[A]**.
++ ***Major Subject:*** Application of Mechanical Graphics **[A]**, Micro-electromechanical System Design **[A]**, Electrical Engineering and Electronics **[A-]**, Measurement Circuits and Systems **[A]**, Special Experiments of Electromechanical System **[A+]**, Error Theory and Data Processing **[A]**, Measurement and Test Technology **[A]**, Fundamental Technology for Instruments Design **[A+]**, Precision Instruments Design **[A]**.
 
