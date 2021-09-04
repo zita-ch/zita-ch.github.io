@@ -28,7 +28,7 @@ Machine Learning, Robot Control, and Signal Processing.
 ------
 ### **Core courses attended [grades]:** 
 
-+ ***Math and Physics:*** Calculus A(1) **[A+]**, Linear Algebra(1) **[A]**, Probability and Statistics **[A]**, Calculus A(2) **[A-]**, Physics(1)(in English) **[A]**, Introduction to Complex Analysis **[A]**, Physics(2)(in English) **[A]**, Lab. of Physics A(1) **[A-]**, Theoretical Mechanics(in English) **[A]**, Linear Algebra(2) **[A]**, Lab. of Physics A(2) **[A]**, Strength of Materials **[A-]**.
++ ***Math and Physics:*** Calculus **[A+]**, Linear Algebra **[A]**, Probability and Statistics **[A]**, Physics (in English) **[A]**, Introduction to Complex Analysis **[A]**,   Theoretical Mechanics (in English) **[A]**.
 + ***Computer Science:*** Programming Fundamentals **[A-]**, Practice of Programming **[A]**, Data Structure **[A]**, Introduction to Data Science **[A-]**, Information Retrieval Technology **[A]**, Data Science and Technology Innovation Practice **[A+]**, Fundamentals of Machine Learning **[A]**, Introduction to Big Data Systems **[A-]**, Information Visualization and Visual Analytics **[Pass, Graduate Course]**.
 + ***Major Subject:*** Fundamentals of Machine Design(1) **[A-]**, Application of Mechanical Graphics **[A]**, electrical engineering and electronics -A **[A-]**, electrical engineering and electronics -B **[A-]**, Fundamentals of Optical Engineering (1) **[A-]**, Error Theory and Data Processing **[A]**, Fundamentals of Machine Design A(2) **[A-]**, Fundamental Technology for Instruments Design **[A+]**, Fundamentals of Engineering Thermodynamics **[A]**, Measurement and Test Technology **[A]**, Design and Practice of Circuit System **[A-]**.
 
