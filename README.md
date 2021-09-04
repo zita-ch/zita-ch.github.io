@@ -28,7 +28,7 @@ Machine Learning, Robot Control, and Signal Processing.
 ------
 ### **Core courses attended [grades]:** 
 
-+ ***Math and Physics:*** Calculus **[A+]**, Linear Algebra **[A]**, Probability and Statistics **[A]**, Physics (in English) **[A]**, Introduction to Complex Analysis **[A]**,   Theoretical Mechanics (in English) **[A]**.
++ ***Math and Physics:*** Calculus **[A+]**, Linear Algebra **[A]**, Probability and Statistics **[A]**, Introduction to Complex Analysis **[A]**, Physics (in English) **[A]**, Theoretical Mechanics (in English) **[A]**.
 + ***Computer Science:*** Practice of Programming **[A]**, Data Structure **[A]**, Information Retrieval Technology **[A]**, Data Science and Technology Innovation Practice **[A+]**, Fundamentals of Machine Learning **[A]**, Information Visualization and Visual Analytics **[Pass, Graduate Course]**, Deep Learning **[B+, Graduate Course]**.
 + ***Major Subject:*** Application of Mechanical Graphics **[A]**, Electrical Engineering and Electronics **[A-]**, Error Theory and Data Processing **[A]**, Fundamental Technology for Instruments Design **[A+]**, Fundamentals of Engineering Thermodynamics **[A]**, Measurement and Test Technology **[A]**, Micro-electromechanical System Design **[A]**, Special Experiments of Electromechanical System **[A+]**, Measurement Circuits and Systems **[A]**, Precision Instruments Design **[A]**.
 
