@@ -16,9 +16,9 @@ Machine Learning, Robot Control, Computer Vision, and Signal Processing.
 ***TOEFL:*** 106 (R30/L26/S22/W28)
 
 ------
-### **Research Experience:**
-+ [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544) advised by Dr. Peida Hu, status: under review
-+ [Research2](404) advised by Dr. X, role: person in charge
+### **Researches:**
++ [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544), advised by Dr. Peida Hu, status: under review
++ [Research2](404) advised by Dr. X, status: 
 
 ------
 ### **Competition Experience:**
