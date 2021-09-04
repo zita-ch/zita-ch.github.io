@@ -30,5 +30,5 @@ Machine Learning, Robot Control, and Signal Processing.
 
 + ***Math and Physics:*** Calculus **[A+]**, Linear Algebra **[A]**, Probability and Statistics **[A]**, Physics (in English) **[A]**, Introduction to Complex Analysis **[A]**,   Theoretical Mechanics (in English) **[A]**.
 + ***Computer Science:*** Practice of Programming **[A]**, Data Structure **[A]**, Information Retrieval Technology **[A]**, Data Science and Technology Innovation Practice **[A+]**, Fundamentals of Machine Learning **[A]**, Information Visualization and Visual Analytics **[Pass, Graduate Course]**.
-+ ***Major Subject:*** Application of Mechanical Graphics **[A]**, electrical engineering and electronics **[A-]**, Error Theory and Data Processing **[A]**, Fundamental Technology for Instruments Design **[A+]**, Fundamentals of Engineering Thermodynamics **[A]**, Measurement and Test Technology **[A]**.
++ ***Major Subject:*** Application of Mechanical Graphics **[A]**, Electrical Engineering and Electronics **[A-]**, Error Theory and Data Processing **[A]**, Fundamental Technology for Instruments Design **[A+]**, Fundamentals of Engineering Thermodynamics **[A]**, Measurement and Test Technology **[A]**.
 
