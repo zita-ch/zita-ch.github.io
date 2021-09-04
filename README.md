@@ -11,15 +11,14 @@ Tsinghua University, Beijing, China.
 + **Research interests:**   
 Machine Learning, Robot Control, Computer Vision, and Signal Processing.    
 + **GPA and Rank:**   
-***Major:*** 3.90/4.00 (3/63),    ***Minor:*** 4.00/4.00 (no rank)
+***Major:*** 3.90/4.00 (3/63),    ***Minor:*** 3.94/4.00 (no rank)
 + **Language:**   
 ***TOEFL:*** 106 (R30/L26/S22/W28)
 
 ------
 ### **Research Experience:**
-+ [Research1](404) advised by Dr. X, role: person in charge
++ [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544) advised by Dr. Peida Hu, status: under review
 + [Research2](404) advised by Dr. X, role: person in charge
-+ [Research3](404) advised by Dr. X, role: person in charge
 
 ------
 ### **Competition Experience:**
