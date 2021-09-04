@@ -1,6 +1,7 @@
 # Welcome to My Page 
 ------
-### **Basic Information:**
+### **Basic Information:**  
++ **Name: Chong Zhang**    
 + **Major:**   
 Measurement, Control Technology and Instruments (Undergrad., 2018- present )   
 + **Minor:**   
