@@ -10,6 +10,7 @@ Data Science and Technology Minor
 Tsinghua University, Beijing, China.   
 + **Research interests:**   
 Machine Learning, Robot Control, and Signal Processing.    
+
 ------
 ### **Academic:**  
 + **GPA and Rank:**   
