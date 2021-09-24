@@ -19,9 +19,9 @@ Machine Learning, Robot Control, and Signal Processing.
 ***TOEFL:*** 106 (R30/L26/S22/W28)
 
 ------
-### **Researches:**
-+ [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544), advised by Dr. Peida Hu, status: under review
+### **Researches:**    
 + [Accessibility-Based Clustering for Efficient Learning of Robot Fall Recovery](https://arxiv.org/abs/2109.11191), advised by Dr. Zhibin (Alex) Li, status: under review  
++ [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544), advised by Dr. Peida Hu, status: under review
 
 ------
 ### **Competition Experience:**
