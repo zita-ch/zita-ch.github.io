@@ -16,7 +16,7 @@ Machine Learning, Robot Control, and Signal Processing.
 + **GPA and Rank:**   
 ***Major:*** 3.88/4.00 (3/63),    ***Minor:*** 3.94/4.00 (no rank)
 + **Standard Tests:**   
-***TOEFL:*** 106 (R30/L26/S22/W28)
+***TOEFL:*** 106 (R30/L26/S22/W28)    
 ***GRE:*** 328 (V158/Q170) + ?
 
 ------
