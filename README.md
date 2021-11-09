@@ -1,5 +1,5 @@
 # Welcome to My Page   
-[\[CV\]](_config.yml)\ [\[E-MAIL:$\leftarrow$see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn)\ [\[Google Scholar\]](www.baidu.com)   
+[\[CV\]](assets/CV_GIT.pdf)\ [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn)\ [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)   
 
 ------  
 ### **Basic Information:**  
