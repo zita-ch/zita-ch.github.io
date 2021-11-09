@@ -1,5 +1,5 @@
 # Welcome to My Page   
-[\[CV\]](assets/CV_GIT.pdf)\ [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn)\ [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)   
+[\[CV\]](assets/CV_GIT.pdf)   [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn)   [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)   
 
 ------  
 ### **Basic Information:**  
