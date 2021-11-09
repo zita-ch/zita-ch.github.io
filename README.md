@@ -3,7 +3,7 @@ I am **Chong Zhang**, a senior undergraduate at Tsinghua University, China.
   
 I am a member of my school's Robocup Humanoid team. Our team is co-advised by [Dr. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/), Dr. Jiwen Zhang, and Dr. Li Liu. I am responsible for the gait algorithm based on DRL methods.    
   
-I have been interning at [Advanced Intelligent Robotics (AIR) Lab of University of Edinburgh](https://groups.inf.ed.ac.uk/advr/) since 2021 summer, advised by Dr. Zhibin (Alex) Li.   
+I have been interning at [Advanced Intelligent Robotics (AIR) Lab of University of Edinburgh](https://groups.inf.ed.ac.uk/advr/) since 2021 summer, advised by [Dr. Zhibin (Alex) Li](https://www.research.ed.ac.uk/en/persons/zhibin-alex-li).   
   
 Prior to that, I was advised by [Dr. Guoqi Li](https://scholar.google.com.sg/citations?user=qCfE--MAAAAJ&hl=en) in a project on multi-chip communication, and by Dr. Peida Hu in a project on modeling and prediction of ship motions.  
 
