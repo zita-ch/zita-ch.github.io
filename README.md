@@ -33,10 +33,9 @@ Machine Learning, Robot Control. Current Focus: Imitation Learning.
 
 
 ------
-### **Social Activities:**
-+ **Providing Equal Access to Engineering Training**   
+### **Social Activities: Providing Equal Access to Engineering Training**   
 I have been working in our department’s student association of technology for three years, and currently I am
-the vice president. Our organization aims to develop students from diverse backgrounds who are interested in
+the vice president. Our organization aims to develop students from diverse backgrounds interested in
 engineering to become experienced engineers. We provide funding, training and competitions for undergraduates,
 which are essential to improve their engineering skills. Usually, Undergraduate students lack their own
 access to engineering training before entering labs for research, and it is hard for them to afford the cost,
