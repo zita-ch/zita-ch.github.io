@@ -38,9 +38,7 @@ Machine Learning, Robot Control. Current Focus: Imitation Learning.
 I have been working in our department’s student association of technology for three years, and currently I am
 the vice president. Our organization aims to develop students from diverse backgrounds who are interested in
 engineering to become experienced engineers. We provide funding, training and competitions for undergraduates,
-which are essential to improve their engineering skills. Undergraduate students usually lack their own
+which are essential to improve their engineering skills. Usually, Undergraduate students lack their own
 access to engineering training before entering labs for research, and it is hard for them to afford the cost,
 especially for those from poor families.    
-During my first year here, I undertook some development tasks. During the second year, I worked as the
-leader of the competition committee. Currently, I am engaged in administrative routines.
 
