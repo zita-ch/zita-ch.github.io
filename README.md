@@ -1,9 +1,8 @@
 # Welcome to My Page   
-[\[CV\]](assets/CV_GIT.pdf)   [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn)   [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)   
+[\[CV\]](assets/CV_GIT.pdf)   [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn)   [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en) I am **Chong Zhang**, a senior undergraduate at Tsinghua University, China. Currently, I am looking for a robotics M.S./Ph.D. position starting in the 2022 fall. 
 
 ------  
-### **Basic Information:**  
-+ **Name: Chong Zhang**    
+### **Basic Information:**     
 + **Major:**   
 Measurement, Control Technology and Instruments (Undergrad., 2018- present )   
 + **Minor:**   
@@ -12,8 +11,6 @@ Data Science and Technology Minor
 Tsinghua University, Beijing, China.   
 + **Research interests:**   
 Machine Learning, Robot Control. Current Focus: Imitation Learning.    
-+ **Status:**     
-Looking for a robotics M.S./Ph.D. position starting in the 2022 fall.
 
 ------
 ### **Researches:**    
