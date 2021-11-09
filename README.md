@@ -1,4 +1,4 @@
-# Welcome to My Page 
+# Welcome to My Page [CV](_config.yml) [E-MAIL](mailto:chong-zh18@mails.tsinghua.edu.cn)
 ------
 ### **Basic Information:**  
 + **Name: Chong Zhang**    
