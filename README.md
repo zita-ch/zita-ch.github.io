@@ -9,7 +9,7 @@ Data Science and Technology Minor
 + **Location:**   
 Tsinghua University, Beijing, China.   
 + **Research interests:**   
-Machine Learning, Robot Control, and Signal Processing.    
+Machine Learning, Robot Control. Current Focus: Imitation Learning    
 
 ------
 ### **Academic:**  
@@ -17,7 +17,7 @@ Machine Learning, Robot Control, and Signal Processing.
 ***Major:*** 3.88/4.00 (3/63),    ***Minor:*** 3.94/4.00 (no rank)
 + **Standard Tests:**   
 ***TOEFL:*** 106 (R30/L26/S22/W28)    
-***GRE:*** 328 (V158/Q170) + ?
+***GRE:*** 328 (V158/Q170) + 4
 
 ------
 ### **Researches:**    
