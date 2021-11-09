@@ -9,15 +9,9 @@ Data Science and Technology Minor
 + **Location:**   
 Tsinghua University, Beijing, China.   
 + **Research interests:**   
-Machine Learning, Robot Control. Current Focus: Imitation Learning    
-
-------
-### **Academic:**  
-+ **GPA and Rank:**   
-***Major:*** 3.88/4.00 (3/63),    ***Minor:*** 3.94/4.00 (no rank)
-+ **Standard Tests:**   
-***TOEFL:*** 106 (R30/L26/S22/W28)    
-***GRE:*** 328 (V158/Q170) + 4
+Machine Learning, Robot Control. Current Focus: Imitation Learning.    
++ **Status:**     
+Looking for a robotics M.S./Ph.D. position starting in the 2022 fall.
 
 ------
 ### **Researches:**    
@@ -29,10 +23,4 @@ Machine Learning, Robot Control. Current Focus: Imitation Learning
 + **Rank 6th** in *China Collegiate Computing Contest - Big Data Challenge 2020* (national competition, with 2 teammates). The problem is to predict the ETA of the shipping orders.
 + **Second Prize** in *26th Hua Luogeng Cup Tsinghua Mathematical Modelling Competition* (school-level competition, with 2 teammates). The selected problem is to  plan the sewage pipes with the lowest cost.
 
-------
-### **Core courses attended [grades]:** 
-
-+ ***Math and Physics:*** Calculus **[A+]**, Linear Algebra **[A]**, Probability and Statistics **[A]**, Introduction to Complex Analysis **[A]**, Physics (in English) **[A]**, Theoretical Mechanics (in English) **[A]**, Fundamentals of Engineering Thermodynamics **[A]**.
-+ ***Computer Science:*** Practice of Programming **[A]**, Data Structure **[A]**, Information Retrieval Technology **[A]**, Data Science and Technology Innovation Practice **[A+]**, Fundamentals of Machine Learning **[A]**, Information Visualization and Visual Analytics **[Pass, Graduate Course]**, Deep Learning **[B+, Graduate Course]**.
-+ ***Major Subject:*** Application of Mechanical Graphics **[A]**, Micro-electromechanical System Design **[A]**, Electrical Engineering and Electronics **[A-]**, Measurement Circuits and Systems **[A]**, Special Experiments of Electromechanical System **[A+]**, Error Theory and Data Processing **[A]**, Measurement and Test Technology **[A]**, Fundamental Technology for Instruments Design **[A+]**, Precision Instruments Design **[A]**.
 
