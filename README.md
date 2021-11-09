@@ -21,6 +21,10 @@ Data Science and Technology Minor
 Tsinghua University, Beijing, China.   
 + **Research interests:**   
 Machine Learning, Robot Control. Current Focus: Imitation Learning.    
++ **Self Positioning:**    
+A researcher with **rich research experience** and **strong faith in keeping challenging**;     
+A student social worker with **leadership** and **communication skills**;   
+An undergraduate with **outstanding academic performance (GPA TOP 5%)**.    
 
 ------
 ### **Research:**    
@@ -35,5 +39,6 @@ Machine Learning, Robot Control. Current Focus: Imitation Learning.
 ------
 ### **Social Activities:<br/>Providing Equal Access to Engineering Training**   
 I have been working in our department’s student association of technology for three years, and currently I am the vice president. Our organization aims to **develop students from diverse backgrounds interested in engineering to become experienced engineers**.   
+   
 We **provide funding, training and competitions for undergraduates**, which are essential to improve their engineering skills. Usually, undergraduate students lack their own access to engineering training before entering labs for research, and it is hard for them to afford the cost, especially for those from poor families.    
 
