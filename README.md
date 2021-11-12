@@ -23,7 +23,7 @@ Data Science and Technology Minor
 + **Location:**   
 Tsinghua University, Beijing, China.   
 + **Research interests:**   
-Machine Learning, Robot Control. Current Focus: Imitation Learning.    
+Machine Learning, Robot Control.     
 + **Self Positioning: Multitasking**    
 A researcher with **rich research experience** and **self-motivation**;     
 A student social worker with **leadership** and **communication skills**;   
