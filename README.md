@@ -9,7 +9,9 @@ Prior to that, I was advised by [Dr. Guoqi Li](https://scholar.google.com.sg/cit
 
 Currently, I am looking for a robotics M.S./Ph.D. position starting in the 2022 fall.    
   
-[\[CV\]](assets/CV_GIT.pdf) [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en) 
+[\[CV\]](assets/CV_GIT.pdf) [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
+
+![Hands Dirty!](/assets/board.png)
 
 ------  
 ### **Basic Information:**     
@@ -21,7 +23,7 @@ Data Science and Technology Minor
 Tsinghua University, Beijing, China.   
 + **Research interests:**   
 Machine Learning, Robot Control. Current Focus: Imitation Learning.    
-+ **Self Positioning:**    
++ **Self Positioning: Multitasking**    
 A researcher with **rich research experience** and **self-motivation**;     
 A student social worker with **leadership** and **communication skills**;   
 An undergraduate with **outstanding academic performance (GPA TOP 5%)**.    
