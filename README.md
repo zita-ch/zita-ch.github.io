@@ -11,7 +11,7 @@ Currently, I am looking for a robotics M.S./Ph.D. position starting in the 2022 
   
 [\[CV\]](assets/CV_GIT.pdf) [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
-<img src="/assets/board.png" alt="drawing" width="150"/><img src="/assets/stacking.png" alt="drawing" width="150"/><img src="/assets/car.png" alt="drawing" width="150"/>
+<img src="/assets/board.png" alt="drawing" height="80"/><img src="/assets/stacking.png" alt="drawing" height="80"/><img src="/assets/car.png" alt="drawing" height="80"/>
 
 ------  
 ### **Basic Information:**     
