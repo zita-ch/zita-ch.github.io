@@ -33,7 +33,7 @@ An undergraduate with **outstanding academic performance (GPA TOP 5%)**.
 
 ------
 ### **Research:**    
-+ [Accessibility-Based Clustering for Efficient Learning of Robot Fall Recovery](https://arxiv.org/abs/2109.11191), advised by Dr. Zhibin (Alex) Li, status: under review  
++ [Accessibility-Based Clustering for Efficient Learning of Locomotion Skills](https://arxiv.org/abs/2109.11191), advised by Dr. Zhibin (Alex) Li, status: under review  
 + [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544), advised by Dr. Peida Hu
 
 ------
