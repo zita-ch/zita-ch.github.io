@@ -14,7 +14,7 @@ Currently, I am looking for a robotics M.S./Ph.D. position starting in the 2022 
 <img src="/assets/board.png" alt="board" height="100"/><img src="/assets/stacking.png" alt="stacking blocks" height="100"/><img src="/assets/car.png" alt="mycar" height="100"/>   
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="110"/>
 <img src="/assets/backflip.gif" alt="quadrupedal backflip" height="110"/>
-<img src="/assets/mosfallrec.gif" alt="bipedal fall recovery" height="110"/>
+<img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="110"/>
 
 ------  
 ### **Basic Information:**     
