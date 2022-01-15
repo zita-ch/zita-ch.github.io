@@ -17,6 +17,10 @@ Currently, I am looking for a robotics M.S./Ph.D. position starting in the 2022 
 <img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="120"/>
 
 ------  
+### **What's New:**  
++ Honored \textbf{First Prize for Outstanding Student Research Training Project} (2021). Best 10 among all of the undergraduate research projects at Tsinghua University.  
+
+------  
 ### **Basic Information:**     
 + **Major:**   
 Measurement, Control Technology and Instruments (Undergrad., 2018- present )   
