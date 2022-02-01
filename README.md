@@ -18,7 +18,7 @@ Currently, I am looking for a robotics M.S./Ph.D. position starting in the 2022 
 
 ------  
 ### **What's New:**   
-+ The paper _Accessibility-Based Clustering for Efficient Learning of Robot Fall Recovery_ was accepted for presentation at ICRA 2022! (Although we have updated it on arXiv and renamed it as _... of Locomotion Skills_. \[Active Updating, 02.01.2022\]    
++ The paper _Accessibility-Based Clustering for Efficient Learning of Robot Fall Recovery_ was **accepted** for **presentation at ICRA 2022**! (We have revised it on arXiv and renamed it as _... of Locomotion Skills_. \[Active Updating, 02.01.2022\]    
 + The paper _Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction_ has undergone a major **revision** and **submitted to IEEE TIE**. The preprint at TechRxiv will be updated in a few days. \[Active Updating, 01.18.2022\]    
 + Honored **First Prize for Outstanding Student Research Training Project** (2021). Best 10 among all of the undergraduate research projects at Tsinghua University. \[Lazy Updating, 01.15.2022\]  
 
