@@ -61,7 +61,7 @@ We **provide funding, training and competitions for undergraduates**, which are 
 Calculus, Linear Algebra, Probability and Statistics, Mathematical Modelling, Introduction to Complex Analysis, Physics, Theoretical Mechanics, Strength of Materials, Fundamentals of Engineering Thermodynamics...     
    
 + **Computer Science:**   
-Programming, Data Structure, The Fundamental of Computer: The Hardware/Software Interface, Introduction to Data Science, Information Retrieval Technology, Introduction to Big Data Systems, Fundamentals of Machine Learning, Intelligent Optimization Algorithms and Its Applications (attending),   
+Programming, Data Structure, The Fundamental of Computer: The Hardware/Software Interface, Introduction to Data Science, Information Retrieval Technology, Introduction to Big Data Systems, Fundamentals of Machine Learning, Intelligent Optimization Algorithms and Its Applications,   
 _Information Visualization and Visual Analytics (graduate course presented by Dr. Shixia Liu)_,    
 _Deep Learning (graduate course presented by Dr. Mingsheng Long)_...   
    
@@ -72,7 +72,7 @@ Introduction to Intelligent Connected System, Electrical Engineering and Electro
 Fundamentals of Machine Design, Application of Mechanical Graphics, Creative Design in Mechanics, Manufacturing Engineering Fundamentals...     
     
 + **Instrumentation and Control**    
-General Chemistry, Introduction of Modern Biology, Fundamentals of Optical Engineering, Error Theory and Data Processing, Fundamental Technology for Instruments Design, Measurement and Test Technology, Precision Instruments Design, Micro-electromechanical System Design, Measurement Circuits and Systems, Fundamentals of Control Engineering, Computer Control Technology, MEMS Technique (attending), Sensors and Signals (attending), Numerical Control Technology (attending)...     
+General Chemistry, Introduction of Modern Biology, Fundamentals of Optical Engineering, Error Theory and Data Processing, Fundamental Technology for Instruments Design, Measurement and Test Technology, Precision Instruments Design, Micro-electromechanical System Design, Measurement Circuits and Systems, Fundamentals of Control Engineering, Computer Control Technology, MEMS Technique, Sensors and Signals, Numerical Control Technology...     
 
 *I prefer self-study and peer discussion rather than attending classes for new knowledge, so there are only a few graduate courses here. Btw, you can expect most of the courses listed here to be of grade 4.0.    
 ***I explored a lot. Now it is time for exploitation.**   
