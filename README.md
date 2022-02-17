@@ -76,3 +76,9 @@ General Chemistry, Introduction of Modern Biology, Fundamentals of Optical Engin
 
 *I prefer self-study and peer discussion rather than attending classes for new knowledge, so there are only a few graduate courses here. Btw, you can expect most of the courses listed here to be of grade 4.0.    
 ***I explored a lot. Now it is time for exploitation.**   
+
+------
+### **Friends:**   
++ [Peixin You](https://hyleindex.github.io/)   
++ [Yanchen Liu](https://liuyanchen1015.github.io/)  
++ [Chenda Duan](https://chendaduan.com/)  
