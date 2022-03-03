@@ -45,7 +45,7 @@ An undergraduate with **outstanding academic performance (GPA TOP 5%)**.
 
 ------
 ### **Professional Activities:**
-+ **Reviewer** for 2022 American Control Conference.
++ **Reviewer** for 2022 ACC, 2022 IROS, RA-Letters.  
 
 
 ------
