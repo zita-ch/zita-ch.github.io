@@ -7,7 +7,7 @@ I have been interning at [Advanced Intelligent Robotics (AIR) Lab of University 
   
 Prior to that, I was advised by [Dr. Guoqi Li](https://scholar.google.com.sg/citations?user=qCfE--MAAAAJ&hl=en) in a project on multi-chip communication, and by Dr. Peida Hu in a project on modeling and prediction of ship motions.  
 
-I will go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall.    
+I will go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall. My tutor is Prof. Dr. [R. Siegwart](https://scholar.google.com/citations?user=MDIyLnwAAAAJ&hl=en) @ [Autonomous System Lab](https://asl.ethz.ch/) (D-MAVT).     
   
 [\[CV\]](assets/Chong_CV_Feb05_2022_updated.pdf) [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
