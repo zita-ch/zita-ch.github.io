@@ -7,7 +7,7 @@ I have been interning at [Advanced Intelligent Robotics (AIR) Lab of University 
   
 Prior to that, I was advised by [Dr. Guoqi Li](https://scholar.google.com.sg/citations?user=qCfE--MAAAAJ&hl=en) in a project on multi-chip communication, and by Dr. Peida Hu in a project on modeling and prediction of ship motions.  
 
-Currently, I am looking for a robotics M.S./Ph.D. position starting in the 2022 fall.    
+I will go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall.    
   
 [\[CV\]](assets/Chong_CV_Feb05_2022_updated.pdf) [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
@@ -18,9 +18,7 @@ Currently, I am looking for a robotics M.S./Ph.D. position starting in the 2022 
 
 ------  
 ### **What's New:**   
-+ The paper _Accessibility-Based Clustering (...)_ was **accepted** for **presentation at ICRA 2022**! \[Active Updating, 02.01.2022\]    
-+ The paper _Modeling of Coupling Effects (...)_ has undergone a major **revision** and **submitted to IEEE TIE**. \[Active Updating, 01.18.2022\]    
-+ Honored **First Prize for Outstanding Student Research Training Project** (2021). Best 10 among all of the undergraduate research projects at Tsinghua University. \[Lazy Updating, 01.15.2022\]  
++ Decided to go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall.  
 
 ------  
 ### **Basic Information:**     
