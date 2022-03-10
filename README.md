@@ -33,7 +33,7 @@ Machine Learning, Robot Control.
 + **Self Positioning: Multitasking**    
 A researcher with **rich research experience** and **self-motivation**;     
 A student social worker with **leadership** and **communication skills**;   
-An undergraduate with **outstanding academic performance (GPA TOP 5%)**.    
+An undergraduate with **outstanding academic performance**.    
 
 ------
 ### **Research:**     
@@ -43,37 +43,7 @@ An undergraduate with **outstanding academic performance (GPA TOP 5%)**.
 
 ------
 ### **Professional Activities:**
-+ **Reviewer** for 2022 ACC, 2022 IROS, RA-Letters.  
-
-
-------
-### **Social Activities:<br/>Providing Equal Access to Engineering Training**   
-I have been working in our department’s student association of technology for three years, and currently I am the vice president. Our organization aims to **develop students from diverse backgrounds interested in engineering to become experienced engineers**.   
-   
-We **provide funding, training and competitions for undergraduates**, which are essential to improve their engineering skills. Usually, undergraduate students lack their own access to engineering training before entering labs for research, and it is hard for them to afford the cost, especially for those from poor families.    
-
-
-------
-### **Inter-Disciplinary Background:<br/>An Overview of Courses I have attended**   
-+ **Math and Physics:**    
-Calculus, Linear Algebra, Probability and Statistics, Mathematical Modelling, Introduction to Complex Analysis, Physics, Theoretical Mechanics, Strength of Materials, Fundamentals of Engineering Thermodynamics...     
-   
-+ **Computer Science:**   
-Programming, Data Structure, The Fundamental of Computer: The Hardware/Software Interface, Introduction to Data Science, Information Retrieval Technology, Introduction to Big Data Systems, Fundamentals of Machine Learning, Intelligent Optimization Algorithms and Its Applications,   
-_Information Visualization and Visual Analytics (graduate course presented by Dr. Shixia Liu)_,    
-_Deep Learning (graduate course presented by Dr. Mingsheng Long)_...   
-   
-+ **Electrical Engineering:**   
-Introduction to Intelligent Connected System, Electrical Engineering and Electronics, Design and Practice of Circuit System, Special Experiments of Electromechanical System...       
-
-+ **Mechanical Engineering:**   
-Fundamentals of Machine Design, Application of Mechanical Graphics, Creative Design in Mechanics, Manufacturing Engineering Fundamentals...     
-    
-+ **Instrumentation and Control**    
-General Chemistry, Introduction of Modern Biology, Fundamentals of Optical Engineering, Error Theory and Data Processing, Fundamental Technology for Instruments Design, Measurement and Test Technology, Precision Instruments Design, Micro-electromechanical System Design, Measurement Circuits and Systems, Fundamentals of Control Engineering, Computer Control Technology, MEMS Technique, Sensors and Signals, Numerical Control Technology...     
-
-*I prefer self-study and peer discussion rather than attending classes for new knowledge, so there are only a few graduate courses here. Btw, you can expect most of the courses listed here to be of grade 4.0.    
-***I explored a lot. Now it is time for exploitation.**   
++ **Reviewer** for 2022 ACC, 2022 IROS, RA-Letters.   
 
 ------
 ### **Friends:**   
