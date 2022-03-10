@@ -9,7 +9,7 @@ Prior to that, I was advised by [Dr. Guoqi Li](https://scholar.google.com.sg/cit
 
 I will go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall. My tutor is Prof. Dr. [R. Siegwart](https://scholar.google.com/citations?user=MDIyLnwAAAAJ&hl=en) @ [Autonomous System Lab](https://asl.ethz.ch/) (D-MAVT).     
   
-[\[CV\]](assets/Chong_CV_Feb05_2022_updated.pdf) [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
+[\[CV\]](assets/Chong_CV_mar10.pdf) [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
 <img src="/assets/board.png" alt="board" height="100"/><img src="/assets/stacking.png" alt="stacking blocks" height="100"/><img src="/assets/car.png" alt="mycar" height="100"/>   
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
