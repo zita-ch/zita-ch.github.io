@@ -18,7 +18,7 @@ I will go to ETH for the Master's Program in Robotics, Systems and Control in 20
 
 ------  
 ### **What's New:**   
-+ Decided to go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall.  
++ Decided to go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall.   
 
 ------  
 ### **Basic Information:**     
