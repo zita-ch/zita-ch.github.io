@@ -38,6 +38,7 @@ An undergraduate with **outstanding academic performance**.
 ------
 ### **Research:**     
 + [Accessibility-Based Clustering for Efficient Learning of Locomotion Skills](https://arxiv.org/abs/2109.11191), advised by Dr. Zhibin (Alex) Li, status: accepted by ICRA 2022. [Presentation](/assets/ICRA22_2387.mp4)   
++ [Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles](https://arxiv.org/pdf/2204.04157.pdf), status: under review  
 + [Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References](https://arxiv.org/pdf/2112.03735.pdf), status: under review  
 + [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544), advised by Dr. Peida Hu, status: under review  
 
