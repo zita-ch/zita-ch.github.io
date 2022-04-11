@@ -18,6 +18,7 @@ I will go to ETH for the Master's Program in Robotics, Systems and Control in 20
 
 ------  
 ### **What's New:**   
++ Submitted a new [paper](https://arxiv.org/pdf/2204.04157.pdf) on low-cost and easy-to-tune imitation learning of bipedal locomotion.   
 + Decided to go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall.   
 
 ------  
