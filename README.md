@@ -1,4 +1,7 @@
 # Welcome to My Page    
+
+**The last update of this page was in May 2022. I will do a major update in August 2022.**    
+
 I am **Chong Zhang**, a senior undergraduate at Tsinghua University, China.   
   
 I am a member of my school's Robocup Humanoid team. Our team is co-advised by Dr. Jiwen Zhang and Dr. Li Liu. I am responsible for the gait algorithm based on DRL methods.    
