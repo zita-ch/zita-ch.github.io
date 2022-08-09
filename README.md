@@ -42,9 +42,10 @@ An undergraduate with **outstanding academic performance**.
 ### **Publications:**     
 + [Accessibility-Based Clustering for Efficient Learning of Locomotion Skills](https://arxiv.org/abs/2109.11191).   
 2022 IEEE International Conference on Robotics and Automation (ICRA).  
- [Presentation](/assets/ICRA22_2387.mp4)    
+ [\[Presentation\]](/assets/ICRA22_2387.mp4)    
 + [Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles](https://arxiv.org/pdf/2204.04157.pdf).   
- 2022 IEEE International Conference on Mechatronics and Automation (ICMA). Finalists of Toshio Fukuda Best Paper Award in Mechatroincs (4/503).        
+ 2022 IEEE International Conference on Mechatronics and Automation (ICMA).  
+ Finalists of Toshio Fukuda Best Paper Award in Mechatroincs (4/503).        
 + [Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References](https://arxiv.org/pdf/2112.03735.pdf).  
  Technical report.     
 + [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544).  
