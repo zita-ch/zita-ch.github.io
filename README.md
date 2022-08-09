@@ -12,7 +12,7 @@ Prior to that, I was advised by [Dr. Guoqi Li](https://scholar.google.com.sg/cit
 
 I will go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall. My tutor is Prof. Dr. [R. Siegwart](https://scholar.google.com/citations?user=MDIyLnwAAAAJ&hl=en) @ [Autonomous System Lab](https://asl.ethz.ch/) (D-MAVT).     
   
-[\[CV\]](assets/Chong_CV_april11.pdf) [\[E-MAIL: see my CV\]](mailto:chong-zh18@mails.tsinghua.edu.cn) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
+[\[CV\]](assets/Chong_CV_april11.pdf) [\[E-MAIL: see my CV\]](mailto:chong.zhang.2k@gmail.com) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
 <img src="/assets/board.png" alt="board" height="100"/><img src="/assets/stacking.png" alt="stacking blocks" height="100"/><img src="/assets/car.png" alt="mycar" height="100"/>   
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
@@ -21,7 +21,6 @@ I will go to ETH for the Master's Program in Robotics, Systems and Control in 20
 
 ------  
 ### **What's New:**   
-+ Submitted a new [paper](https://arxiv.org/pdf/2204.04157.pdf) on low-cost and easy-to-tune imitation learning of bipedal locomotion.   
 + Decided to go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall.   
 
 ------  
@@ -40,11 +39,11 @@ A student social worker with **leadership** and **communication skills**;
 An undergraduate with **outstanding academic performance**.    
 
 ------
-### **Research:**     
-+ [Accessibility-Based Clustering for Efficient Learning of Locomotion Skills](https://arxiv.org/abs/2109.11191), advised by Dr. Zhibin (Alex) Li, status: accepted by ICRA 2022. [Presentation](/assets/ICRA22_2387.mp4)   
-+ [Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles](https://arxiv.org/pdf/2204.04157.pdf), status: under review  
-+ [Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References](https://arxiv.org/pdf/2112.03735.pdf), status: under review  
-+ [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544), advised by Dr. Peida Hu, status: under review  
+### **Publications:**     
++ [Accessibility-Based Clustering for Efficient Learning of Locomotion Skills](https://arxiv.org/abs/2109.11191). 2022 IEEE International Conference on Robotics and Automation (ICRA). [Presentation](/assets/ICRA22_2387.mp4)    
++ [Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles](https://arxiv.org/pdf/2204.04157.pdf), 2022 IEEE International Conference on Mechatronics and Automation (ICMA). Finalists of Toshio Fukuda Best Paper Award in Mechatroincs (4/503).        
++ [Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References](https://arxiv.org/pdf/2112.03735.pdf). Technical report.     
++ [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544). Technical report.   
 
 ------
 ### **Professional Activities:**
