@@ -14,7 +14,8 @@ I will go to ETH for the Master's Program in Robotics, Systems and Control in 20
   
 [\[CV\]](assets/Chong_CV_april11.pdf) [\[E-MAIL: see my CV\]](mailto:chong.zhang.2k@gmail.com) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
-<img src="/assets/board.png" alt="board" height="100"/><img src="/assets/stacking.png" alt="stacking blocks" height="100"/><img src="/assets/car.png" alt="mycar" height="100"/>   
+<img src="/assets/board.png" alt="board" height="100"/><img src="/assets/stacking.png" alt="stacking blocks" height="100"/><img src="/assets/car.png" alt="mycar" height="100"/>  
+<img src="/assets/quad2019.png" alt="quad2019" height="95"/><img src="https://user-images.githubusercontent.com/54518250/185296654-ffe728d5-e998-41ea-9e01-c0013c4d7e88.png" alt="terrains" height="95"/>   
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
 <img src="/assets/backflip.gif" alt="quadrupedal backflip" height="120"/>
 <img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="120"/>
@@ -45,7 +46,7 @@ An undergraduate with **outstanding academic performance**.
  [\[Presentation\]](/assets/ICRA22_2387.mp4)    
 + [Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles](https://arxiv.org/pdf/2204.04157.pdf).   
  2022 IEEE International Conference on Mechatronics and Automation (ICMA).  
- Finalists of Toshio Fukuda Best Paper Award in Mechatroincs (4/503).        
+ Finalists of Toshio Fukuda Best Paper Award in Mechatroincs.        
 + [Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References](https://arxiv.org/pdf/2112.03735.pdf).  
  Technical report.     
 + [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544).  
