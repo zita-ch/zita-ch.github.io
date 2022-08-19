@@ -1,18 +1,14 @@
 # Welcome to My Page    
 
-**The last update of this page was in May 2022. I will do a major update in August 2022.**    
+**The last update of my CV was in April 2022. I will do a major update in Aug. or Sept. 2022. This page is also undergoing updates.**    
 
-I am **Chong Zhang**, a senior undergraduate at Tsinghua University, China.   
-  
-I am a member of my school's Robocup Humanoid team. Our team is co-advised by Dr. Jiwen Zhang and Dr. Li Liu. I am responsible for the gait algorithm based on DRL methods.    
-  
-I have been interning at [Advanced Intelligent Robotics (AIR) Lab of University of Edinburgh](https://groups.inf.ed.ac.uk/advr/) since 2021 summer, advised by [Dr. Zhibin (Alex) Li](https://www.research.ed.ac.uk/en/persons/zhibin-alex-li).   
-  
-Prior to that, I was advised by [Dr. Guoqi Li](https://scholar.google.com.sg/citations?user=qCfE--MAAAAJ&hl=en) in a project on multi-chip communication, and by Dr. Peida Hu in a project on modeling and prediction of ship motions.  
+I am **Chong Zhang**, a master student in Robotics at ETH Zürich. My tutor is Prof. Dr. [R. Siegwart](https://scholar.google.com/citations?user=MDIyLnwAAAAJ&hl=en) @ [Autonomous System Lab](https://asl.ethz.ch/) (D-MAVT).     
 
-I will go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall. My tutor is Prof. Dr. [R. Siegwart](https://scholar.google.com/citations?user=MDIyLnwAAAAJ&hl=en) @ [Autonomous System Lab](https://asl.ethz.ch/) (D-MAVT).     
+My primary research goal is to apply **Machine Learning** for **Robotics**. I identify two major research topics that I am interested in: data-efficient and robust **reinforcement learning** for legged locomotion, and **data generation** for data-driven control. These topics can both facilitate the applications of intelligent robots in the **real world**.
+
+I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
   
-[\[CV\]](assets/Chong_CV_april11.pdf) [\[E-MAIL: see my CV\]](mailto:chong.zhang.2k@gmail.com) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
+[\[CV\]](assets/Chong_CV_april11.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
 <img src="/assets/board.png" alt="board" height="100"/><img src="/assets/stacking.png" alt="stacking blocks" height="100"/><img src="/assets/car.png" alt="mycar" height="100"/>  
 <img src="/assets/quad2019.png" alt="quad2019" height="95"/><img src="https://user-images.githubusercontent.com/54518250/185296654-ffe728d5-e998-41ea-9e01-c0013c4d7e88.png" alt="terrains" height="95"/>   
@@ -22,20 +18,19 @@ I will go to ETH for the Master's Program in Robotics, Systems and Control in 20
 
 ------  
 ### **What's New:**   
-+ Decided to go to ETH for the Master's Program in Robotics, Systems and Control in 2022 fall.   
++ Generated a dataset to build a terrain-robustness benchmark for legged locomotion: https://github.com/zita-ch/terrain_benchmark    
 
 ------  
-### **Basic Information:**     
+### **My B.Eng. Degree:**     
+**Honor: Distinguished Graduate**  
 + **Major:**   
-Measurement, Control Technology and Instruments (Undergrad., 2018- present )   
+Measurement, Control Technology and Instruments (2018 - 2022)    
 + **Minor:**   
-Data Science and Technology Minor   
+Data Science and Technology   
 + **Location:**   
-Tsinghua University, Beijing, China.   
-+ **Research interests:**   
-Machine Learning, Robot Control.     
+Tsinghua University, Beijing, China.      
 + **Self Positioning: Multitasking**    
-A researcher with **rich research experience** and **self-motivation**;     
+A researcher with **rich experience** and **self-motivation**;     
 A student social worker with **leadership** and **communication skills**;   
 An undergraduate with **outstanding academic performance**.    
 
@@ -47,6 +42,8 @@ An undergraduate with **outstanding academic performance**.
 + [Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles](https://arxiv.org/pdf/2204.04157.pdf).   
  2022 IEEE International Conference on Mechatronics and Automation (ICMA).  
  Finalists of Toshio Fukuda Best Paper Award in Mechatroincs.        
++ [Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning](https://arxiv.org/pdf/2208.07681.pdf).  
+ Technical report.     
 + [Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References](https://arxiv.org/pdf/2112.03735.pdf).  
  Technical report.     
 + [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544).  
@@ -58,6 +55,6 @@ An undergraduate with **outstanding academic performance**.
 
 ------
 ### **Friends:**   
++ [Chenda Duan](https://chendaduan.com/)    
++ [Yanchen Liu](https://liuyanchen1015.github.io/)   
 + [Peixin You](https://hyleindex.github.io/)   
-+ [Yanchen Liu](https://liuyanchen1015.github.io/)  
-+ [Chenda Duan](https://chendaduan.com/)  
