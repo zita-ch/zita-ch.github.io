@@ -1,14 +1,12 @@
 # Welcome to My Page    
-
-**The last update of my CV was in April 2022. I will do a major update in Aug. or Sept. 2022. This page is also undergoing updates.**    
-
+   
 I am **Chong Zhang**, a master student in Robotics at ETH Zürich. My tutor is Prof. Dr. [R. Siegwart](https://scholar.google.com/citations?user=MDIyLnwAAAAJ&hl=en) @ [Autonomous System Lab](https://asl.ethz.ch/) (D-MAVT).     
 
 My primary research goal is to apply **Machine Learning** for **Robotics**. I identify two major research topics that I am interested in: data-efficient and robust **reinforcement learning** for legged locomotion, and **data generation** for data-driven control. These topics can both facilitate the applications of intelligent robots in the **real world**.
 
 I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
   
-[\[CV\]](assets/Chong_CV_april11.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
+[\[CV\]](assets/Academic_CV_chong.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
 <img src="/assets/board.png" alt="board" height="100"/><img src="/assets/stacking.png" alt="stacking blocks" height="100"/><img src="/assets/car.png" alt="mycar" height="100"/>  
 <img src="/assets/quad2019.png" alt="quad2019" height="95"/><img src="https://user-images.githubusercontent.com/54518250/185296654-ffe728d5-e998-41ea-9e01-c0013c4d7e88.png" alt="terrains" height="95"/>   
