@@ -16,7 +16,8 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 ------  
 ### **What's New:**   
-+ Generated a dataset to build a terrain-robustness benchmark for legged locomotion: https://github.com/zita-ch/terrain_benchmark    
++ Joined [ETH RSL](https://rsl.ethz.ch/)   
++ Generated a dataset to build a terrain-robustness benchmark for legged locomotion: [https://github.com/zita-ch/terrain_benchmark](https://github.com/zita-ch/terrain_benchmark)    
 
 ------  
 ### **My B.Eng. Degree:**     
