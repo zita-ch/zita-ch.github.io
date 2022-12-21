@@ -13,7 +13,7 @@ I am open to academic collaborations and please drop me an email if you are inte
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
 <img src="/assets/backflip.gif" alt="quadrupedal backflip" height="120"/>
 <img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="120"/>  
-<img src="/assets/play1.jpg" alt="play with anymal 1" height="150"/><img src="/assets/play2.jpg" alt="play with anymal 2" height="150"/>
+<img src="/assets/play1.jpg" alt="play with anymal 1" height="180"/><img src="/assets/play2.jpg" alt="play with anymal 2" height="180"/>
 
 ------  
 ### **What's New:**   
