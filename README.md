@@ -12,7 +12,7 @@ I am open to academic collaborations and please drop me an email if you are inte
 <img src="/assets/quad2019.png" alt="quad2019" height="95"/><img src="https://user-images.githubusercontent.com/54518250/185296654-ffe728d5-e998-41ea-9e01-c0013c4d7e88.png" alt="terrains" height="95"/>   
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
 <img src="/assets/backflip.gif" alt="quadrupedal backflip" height="120"/>
-<img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="120"/>
+<img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="120"/>  
 <img src="/assets/play1.jpg" alt="play with anymal 1" height="120"/><img src="/assets/play2.jpg" alt="play with anymal 2" height="120"/>
 
 ------  
