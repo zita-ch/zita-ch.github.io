@@ -8,12 +8,12 @@ I am open to academic collaborations and please drop me an email if you are inte
   
 [\[CV\]](assets/Academic_CV_chong.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
-<img src="/assets/board.png" alt="board" height="100"/><img src="/assets/stacking.png" alt="stacking blocks" height="100"/><img src="/assets/car.png" alt="mycar" height="100"/>  
-<img src="/assets/quad2019.png" alt="quad2019" height="95"/><img src="https://user-images.githubusercontent.com/54518250/185296654-ffe728d5-e998-41ea-9e01-c0013c4d7e88.png" alt="terrains" height="95"/>   
+<img src="/assets/play1.jpg" alt="play with anymal 1" height="200"/><img src="/assets/play2.jpg" alt="play with anymal 2" height="200"/>   
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
 <img src="/assets/backflip.gif" alt="quadrupedal backflip" height="120"/>
 <img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="120"/>  
-<img src="/assets/play1.jpg" alt="play with anymal 1" height="200"/><img src="/assets/play2.jpg" alt="play with anymal 2" height="200"/>
+<img src="/assets/board.png" alt="board" height="100"/><img src="/assets/stacking.png" alt="stacking blocks" height="100"/><img src="/assets/car.png" alt="mycar" height="100"/>  
+<img src="/assets/quad2019.png" alt="quad2019" height="95"/><img src="https://user-images.githubusercontent.com/54518250/185296654-ffe728d5-e998-41ea-9e01-c0013c4d7e88.png" alt="terrains" height="95"/>  
 
 ------  
 ### **What's New:**   
