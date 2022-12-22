@@ -8,7 +8,6 @@ I am open to academic collaborations and please drop me an email if you are inte
   
 [\[CV\]](assets/Academic_CV_chong.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
-<img src="/assets/play1.jpg" alt="play with anymal 1" height="200"/><img src="/assets/play2.jpg" alt="play with anymal 2" height="200"/>   
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
 <img src="/assets/backflip.gif" alt="quadrupedal backflip" height="120"/>
 <img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="120"/>  
