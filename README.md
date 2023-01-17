@@ -17,6 +17,7 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 ------  
 ### **What's New:**   
++ The [terrain benchmark paper](https://github.com/zita-ch/terrain_benchmark) has been accepted by ICRA 2023.  
 + Joined [ETH RSL](https://rsl.ethz.ch/)   
 + Generated a dataset to build a terrain-robustness benchmark for legged locomotion: [https://github.com/zita-ch/terrain_benchmark](https://github.com/zita-ch/terrain_benchmark)    
 
@@ -36,15 +37,15 @@ An undergraduate with **outstanding academic performance**.
 
 ------
 ### **Publications:**     
++ [Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning](https://arxiv.org/pdf/2208.07681.pdf).  
+ To appear in: 2023 IEEE International Conference on Robotics and Automation (ICRA). 
 + [Accessibility-Based Clustering for Efficient Learning of Locomotion Skills](https://arxiv.org/abs/2109.11191).   
 2022 IEEE International Conference on Robotics and Automation (ICRA).  
  [\[Oral Presentation\]](/assets/ICRA22_2387.mp4)    
 + [Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles](https://arxiv.org/pdf/2204.04157.pdf).   
  2022 IEEE International Conference on Mechatronics and Automation (ICMA).  
  Finalists of Toshio Fukuda Best Paper Award in Mechatroincs.  
-[\[Oral Presentation\]](/assets/icma2022oral_compressed.pdf)      
-+ [Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning](https://arxiv.org/pdf/2208.07681.pdf).  
- Technical report.     
+[\[Oral Presentation\]](/assets/icma2022oral_compressed.pdf)          
 + [Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References](https://arxiv.org/pdf/2112.03735.pdf).  
  Technical report.     
 + [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544).  
