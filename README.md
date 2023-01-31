@@ -5,6 +5,12 @@ I am **Chong Zhang**, a master student in Robotics at ETH Zürich. My tutor is P
 My primary research goal is to apply **Machine Learning** for **Robotics**. I identify two major research topics that I am interested in: data-efficient and robust **reinforcement learning** for legged locomotion, and **data generation** for data-driven control. These topics can both facilitate the applications of intelligent robots in the **real world**.
 
 I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
+
+My lifelong goal:   
++ Legged locomotion (i.e., walking and fall recovery) on all terrains (**WIP!**)
++ Legs (locomotion) and arms (manipulation) are the dual parts 
++ High-DoF motor intelligence not limited to rigid bodies: Can I build a **HUMAN**-oid? 
++ Retire!
   
 [\[CV\]](assets/Academic_CV_chong.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
