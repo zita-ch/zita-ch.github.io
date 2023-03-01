@@ -15,6 +15,7 @@ My lifelong goal:
 [\[CV\]](assets/Academic_CV_chong.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
 
+<img src="/assets/learnfromfailure.png" alt="failure" height="102"/>    
 <img src="/assets/board.png" alt="board" height="102"/><img src="/assets/stacking.png" alt="stacking blocks" height="102"/><img src="/assets/car.png" alt="mycar" height="102"/>  
 <img src="/assets/quad2019.png" alt="quad2019" height="98"/><img src="https://user-images.githubusercontent.com/54518250/185296654-ffe728d5-e998-41ea-9e01-c0013c4d7e88.png" alt="terrains" height="98"/>  
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
