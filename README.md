@@ -60,7 +60,7 @@ An undergraduate with **outstanding academic performance**.
 
 ------
 ### **Professional Activities:**
-+ **Reviewer** for 2022 ACC, 2022 IROS, 2023 ICRA, RA-Letters.   
++ **Reviewer** for 2022 ACC, 2022 IROS, 2023 ICRA, 2023 IROS, RA-Letters.   
 
 ------
 ### **Friends:**   
