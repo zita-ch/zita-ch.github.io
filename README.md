@@ -28,20 +28,6 @@ My lifelong goal:
 + Joined [ETH RSL](https://rsl.ethz.ch/)   
 + Generated a dataset to build a terrain-robustness benchmark for legged locomotion: [https://github.com/zita-ch/terrain_benchmark](https://github.com/zita-ch/terrain_benchmark)    
 
-------  
-### **My B.Eng. Degree:**     
-**Honor: Distinguished Graduate**  
-+ **Major:**   
-Measurement, Control Technology and Instruments (2018 - 2022)    
-+ **Minor:**   
-Data Science and Technology   
-+ **Location:**   
-Tsinghua University, Beijing, China.      
-+ **Self Positioning: Multitasking**    
-A researcher with **rich experience** and **self-motivation**;     
-A student social worker with **leadership** and **communication skills**;   
-An undergraduate with **outstanding academic performance**.    
-
 ------
 ### **Publications:**     
 + [Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning](https://arxiv.org/pdf/2208.07681.pdf).  
@@ -62,8 +48,3 @@ An undergraduate with **outstanding academic performance**.
 ### **Professional Activities:**
 + **Reviewer** for 2022 ACC, 2022 IROS, 2023 ICRA, 2023 IROS, RA-Letters.   
 
-------
-### **Friends:**   
-+ [Chenda Duan](https://chendaduan.com/)    
-+ [Yanchen Liu](https://liuyanchen1015.github.io/)   
-+ [Peixin You](https://hyleindex.github.io/)   
