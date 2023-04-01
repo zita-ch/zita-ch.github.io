@@ -40,9 +40,7 @@ My lifelong goal:
  Finalists of Toshio Fukuda Best Paper Award in Mechatroincs.  
 [\[Oral Presentation\]](/assets/icma2022oral_compressed.pdf)          
 + [Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References](https://arxiv.org/pdf/2112.03735.pdf).  
- Technical report.     
-+ [Modeling of Coupling Effects in Neural Networks for Ship Motion Prediction](https://www.techrxiv.org/articles/preprint/Modeling_of_Coupling_Effects_in_Neural_Networks_for_Ship_Motion_Prediction/14945544).  
- Technical report.   
+ Technical report (2021).     
 
 ------
 ### **Professional Activities:**
