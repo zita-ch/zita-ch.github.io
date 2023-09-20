@@ -1,5 +1,7 @@
 # Welcome to My Page    
-   
+
+_Last update: April 1 2023; next update Oct/Nov 2023_     
+
 I am **Chong Zhang**, a master student in Robotics at ETH Zürich. My tutor is Prof. Dr. [R. Siegwart](https://scholar.google.com/citations?user=MDIyLnwAAAAJ&hl=en) @ [Autonomous System Lab](https://asl.ethz.ch/) (D-MAVT). I am currently with [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) for my research.     
 
 My primary research goal is to apply **Machine Learning** for **Robotics**. I identify two major research topics that I am interested in: data-efficient and robust **reinforcement learning** for legged locomotion, and **data generation** for data-driven control. These topics can both facilitate the applications of intelligent robots in the **real world**.
