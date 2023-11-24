@@ -22,8 +22,7 @@ My lifelong goal:
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
 <img src="/assets/backflip.gif" alt="quadrupedal backflip" height="120"/>
 <img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="120"/>  
-<img src="/assets/beamhard.gif" alt="success1" height="140"/>    
-<img src="/assets/REALSTONES.gif" alt="success1" height="140"/>    
+<img src="/assets/beamhard.gif" alt="success1" height="140"/><img src="/assets/REALSTONES.gif" alt="success1" height="140"/>    
 
 ------  
 ### **What's New:**   
