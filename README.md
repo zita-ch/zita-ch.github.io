@@ -14,7 +14,7 @@ My lifelong goal:
 + High-DoF motor intelligence not limited to rigid bodies: Can I build a **HUMAN**-oid? 
 + Retire!
   
-[\[CV\]](assets/Academic_CV_chong.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
+[\[CV\]](assets/MyLatest_CV.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
    
 <img src="/assets/board.png" alt="board" height="102"/><img src="/assets/stacking.png" alt="stacking blocks" height="102"/><img src="/assets/car.png" alt="mycar" height="102"/>  
