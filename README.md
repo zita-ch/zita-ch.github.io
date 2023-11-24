@@ -1,6 +1,6 @@
 # Welcome to My Page    
 
-_Last update: April 1 2023; next update Oct/Nov 2023_     
+_Last info update: April 1 2023; next update Dec 2023_     
 
 I am **Chong Zhang**, a master student in Robotics at ETH Zürich. My tutor is Prof. Dr. [R. Siegwart](https://scholar.google.com/citations?user=MDIyLnwAAAAJ&hl=en) @ [Autonomous System Lab](https://asl.ethz.ch/) (D-MAVT). I am currently with [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) for my research.     
 
@@ -22,7 +22,8 @@ My lifelong goal:
 <img src="/assets/bittlefallrec.gif" alt="quadrupedal fall recovery" height="120"/>
 <img src="/assets/backflip.gif" alt="quadrupedal backflip" height="120"/>
 <img src="/assets/ada11walk.gif" alt="bipedal walk adamimic" height="120"/>  
-<img src="/assets/learnfromfailure.png" alt="failure" height="180"/>    
+<img src="/assets/beamhard.gif" alt="success1" height="180"/>    
+<img src="/assets/REALSTONES.gif" alt="success1" height="180"/>    
 
 ------  
 ### **What's New:**   
@@ -46,5 +47,5 @@ My lifelong goal:
 
 ------
 ### **Professional Activities:**
-+ **Reviewer** for 2022 ACC, 2022 IROS, 2023 ICRA, 2023 IROS, RA-Letters.   
++ **Reviewer** for 2022 ACC, 2022 IROS, 2023 ICRA, 2023 IROS, 2024 ICRA, RA-Letters.   
 
