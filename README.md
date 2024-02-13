@@ -11,7 +11,7 @@ I am interested in learning and control for legged robots in the **real world**.
 ### **Selected Works:**     
 + [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/pdf/2401.17583.pdf)   
   Tairan He\*, **Chong Zhang\***, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi  
-  Under Review
+  Under Review  
   [\[Website\]](https://agile-but-safe.github.io/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-agile-but-safe)  
 + [Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End](https://arxiv.org/pdf/2310.03581.pdf)  
   **Chong Zhang\***, Jin Jin\*, Jonas Frey, Nikita Rudin, Matias Eduardo Mattamala Aravena, Cesar Cadena, Marco Hutter  
