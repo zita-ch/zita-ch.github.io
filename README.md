@@ -5,7 +5,7 @@ I am **Chong Zhang**, a master student in Robotics at ETH Zürich. I am with [Ro
 
 I am interested in learning and control for legged robots in the **real world**.
   
-[\[CV\]](assets/MyLatest_CV.pdf) [\[E-MAIL: see my CV\]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
+[\[E-MAIL: chozhang@ethz.ch]](mailto:chozhang@ethz.ch) [\[Google Scholar\]](https://scholar.google.com/citations?user=lmMS2aoAAAAJ&hl=en)  
 
 ------
 ### **Selected Works:**     
