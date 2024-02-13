@@ -5,7 +5,7 @@ remote_theme: vszhub/not-pure-poole
 
 title: Chong's Page
 description: If any of you are aliens, time-travelers, or espers, please come see me!　
-logo: /assets/head.jpg 
+cover_image: /assets/head.jpg 
 show_downloads: false  
 layout: single
 classes: wide  
