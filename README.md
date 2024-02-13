@@ -17,7 +17,7 @@ I am interested in learning and control for legged robots in the **real world**.
   2024 IEEE International Conference on Robotics and Automation (ICRA).  
   [Website](https://sites.google.com/leggedrobotics.com/resilient-navigation)  
 + [Learning Agile Locomotion on Risky Terrains](https://arxiv.org/abs/2311.10484)  
-  Chong Zhang, Nikita Rudin, David Hoeller, Marco Hutter  
+  **Chong Zhang**, Nikita Rudin, David Hoeller, Marco Hutter  
   Under Review
   [Video](https://www.youtube.com/watch?v=Z5X0J8OH6z4)   
 + [Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning](https://arxiv.org/pdf/2208.07681.pdf).  
