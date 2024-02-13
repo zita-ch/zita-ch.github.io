@@ -1,4 +1,8 @@
-theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
+
 title: Chong's Page
 description: If any of you are aliens, time-travelers, or espers, please come see me!　
 logo: /assets/head.jpg 
