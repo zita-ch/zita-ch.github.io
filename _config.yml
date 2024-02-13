@@ -1,7 +1,7 @@
 plugins:
   - jekyll-remote-theme
 remote_theme: BDHU/minimalist
-title: Chong's Page
+
 description: If any of you are aliens, time-travelers, or espers, please come see me!　
 logo: /assets/head.jpg 
 show_downloads: false  
