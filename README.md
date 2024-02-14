@@ -12,22 +12,27 @@ I am interested in learning and control for legged robots in the **real world**.
 + [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/pdf/2401.17583.pdf)   
   Tairan He\*, **Chong Zhang\***, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi  
   Under Review  
-  [\[Website\]](https://agile-but-safe.github.io/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-agile-but-safe)  
+  [\[Website\]](https://agile-but-safe.github.io/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-agile-but-safe)
+    
 + [Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End](https://arxiv.org/pdf/2310.03581.pdf)  
   **Chong Zhang\***, Jin Jin\*, Jonas Frey, Nikita Rudin, Matias Eduardo Mattamala Aravena, Cesar Cadena, Marco Hutter  
   2024 IEEE International Conference on Robotics and Automation (ICRA).  
-  [\[Website\]](https://sites.google.com/leggedrobotics.com/resilient-navigation)  
+  [\[Website\]](https://sites.google.com/leggedrobotics.com/resilient-navigation)
+    
 + [Learning Agile Locomotion on Risky Terrains](https://arxiv.org/abs/2311.10484)  
   **Chong Zhang**, Nikita Rudin, David Hoeller, Marco Hutter  
   Under Review  
   [\[Video\]](https://www.youtube.com/watch?v=Z5X0J8OH6z4)   
+    
 + [Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning](https://arxiv.org/pdf/2208.07681.pdf).  
   **Chong Zhang**, Lizhi Yang  
   2023 IEEE International Conference on Robotics and Automation (ICRA). 
+    
 + [Accessibility-Based Clustering for Efficient Learning of Locomotion Skills](https://arxiv.org/abs/2109.11191).   
   **Chong Zhang\***, Wanming Yu\*, Zhibin Li  
   2022 IEEE International Conference on Robotics and Automation (ICRA).  
  [\[Oral Presentation\]](/assets/ICRA22_2387.mp4)    
+    
 + [Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles](https://arxiv.org/pdf/2204.04157.pdf).  
   Qi Wu\*, **Chong Zhang\***, Yanchen Liu  
   2022 IEEE International Conference on Mechatronics and Automation (ICMA).  
