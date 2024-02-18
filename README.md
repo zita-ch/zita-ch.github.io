@@ -15,7 +15,7 @@ I am interested in learning and control for legged robots in the **real world**.
   [\[Website\]](https://agile-but-safe.github.io/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-agile-but-safe)
     
 + [_Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End_](https://arxiv.org/pdf/2310.03581.pdf)  
-  **Chong Zhang\***, Jin Jin\*, Jonas Frey, Nikita Rudin, Matias Eduardo Mattamala Aravena, Cesar Cadena, Marco Hutter  
+  **Chong Zhang\***, Jin Jin\*, Jonas Frey, Nikita Rudin, Matias Mattamala, Cesar Cadena, Marco Hutter  
   2024 IEEE International Conference on Robotics and Automation (ICRA).  
   [\[Website\]](https://sites.google.com/leggedrobotics.com/resilient-navigation)
     
