@@ -9,6 +9,13 @@ I am interested in learning and control for legged robots in the **real world**.
 
 ------
 ### **Selected Works:**     
++ _There are 2 other works to be anounced when I have time and decide to do so._   
+
++ [_Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation_](https://human2humanoid.com/resources/H2O_paper.pdf)  
+  Tairan He*, Zhengyi Luo*, Wenli Xiao, **Chong Zhang**, Kris Kitani, Changliu Liu, Guanya Shi  
+  Under Review    
+  [\[Website: human2humanoid.com\]](https://human2humanoid.com/)     
+  
 + [_Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion_](https://arxiv.org/pdf/2401.17583.pdf)   
   Tairan He\*, **Chong Zhang\***, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi  
   Under Review  
