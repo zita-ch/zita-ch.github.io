@@ -49,5 +49,5 @@ I am interested in learning and control for legged robots in the **real world**.
 
 ------
 ### **Professional Activities:**
-+ **Reviewer** for 2022 ACC, 2022 IROS, 2023 ICRA, 2023 IROS, 2024 ICRA, RA-Letters.   
++ **Reviewer** for 2022 ACC, 2022 IROS, 2023 ICRA, 2023 IROS, 2024 ICRA, 2024 RSS, RA-Letters.   
 
