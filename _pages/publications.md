@@ -6,14 +6,16 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.
+
+  It's also easier to view them in time order on Google Scholar, as I sort my works here by whether I (co-)lead them.
   </div>
 {% endif %}
 
 ## **Selected Works:**     
 
 
-#### (Co-)Led by me:  
+### (Co-)Led by me:  
 
 
 + [_Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion_](https://arxiv.org/pdf/2401.17583.pdf)   
@@ -49,7 +51,7 @@ author_profile: true
   [\[Oral Presentation\]](/files/icma2022oral_compressed.pdf)           
 
 
-#### Cooperations:  
+### Cooperations:  
 
 + [_Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation_](https://human2humanoid.com/resources/H2O_paper.pdf)  
   Tairan He\*, Zhengyi Luo\*, Wenli Xiao, **Chong Zhang**, Kris Kitani, Changliu Liu, Guanya Shi  
