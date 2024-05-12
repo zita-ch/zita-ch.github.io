@@ -200,7 +200,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: False
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -209,10 +209,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: False
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: False
+    output: false
     permalink: /:collection/:path/
 
 
