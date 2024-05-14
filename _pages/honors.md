@@ -13,7 +13,7 @@ author_profile: true
 ### Outstanding Papers:  
 
 + 2024 IEEE International Conference on Robotics and Automation (ICRA)  
-  Finalist of ICRA Best Paper Award in Cognitive Robotics 
+  Finalist of ICRA Best Paper Award in Cognitive Robotics     
   Paper: [_Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End_](https://arxiv.org/pdf/2310.03581.pdf)  
   Authors: **Chong Zhang\***, Jin Jin\*, Jonas Frey, Nikita Rudin, Matias Mattamala, Cesar Cadena, Marco Hutter  
 
