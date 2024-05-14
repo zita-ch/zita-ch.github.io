@@ -18,9 +18,14 @@ author_profile: true
 ### (Co-)Led by me:  
 
 
++ [_Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers._](tbd_arxiv)   
+  Fan Shi\*, **Chong Zhang\***, Takahiro Miki, Joonho Lee, Marco Hutter, and Stelian Coros.     
+  2024 Robotics: Science and Systems (RSS).       
+  [\[Website TBD\]]()   
+
 + [_Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion_](https://arxiv.org/pdf/2401.17583.pdf)   
   Tairan He\*, **Chong Zhang\***, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi  
-  Under Review  
+  2024 Robotics: Science and Systems (RSS).     
   [\[Website\]](https://agile-but-safe.github.io/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-agile-but-safe)
 
 + [_Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End_](https://arxiv.org/pdf/2310.03581.pdf)  
