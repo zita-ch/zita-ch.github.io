@@ -18,4 +18,4 @@ You can check my publications [here](https://zita-ch.github.io/publications) and
   
     
 <img src="/files/anymalrisky_iros24.gif" width="250"/><img src="/files/anymalrisky2_iros24.gif" width="250"/><img src="/files/anymal_adv_indoor.gif" width="250"/>    
-<img src="/files/anymal_adv_wild.gif" width="250"/><img src="/files/abs_snow.gif" width="250"/><img src="/files/anymal_adv_wild.gif" width="250"/><img src="/files/robustness_h2o.gif" width="250"/>         
+<img src="/files/anymal_adv_wild.gif" width="250"/><img src="/files/abs_snow.gif" width="250"/><img src="/files/robustness_h2o.gif" width="250"/>         
