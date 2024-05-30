@@ -17,5 +17,5 @@ I am a reviewer for RSS (2024), ICRA(2023-2024), IROS (2022-2024), ACC(2022), RA
 You can check my publications [here](https://zita-ch.github.io/publications) and my academic honors [here](https://zita-ch.github.io/honors).
   
     
-<img src="/files/anymalrisky_iros24.gif" width="250"/> <img src="/files/anymalrisky2_iros24.gif" width="250"/>    
-<img src="/files/anymal_adv_indoor.gif" width="250"/> <img src="/files/anymal_adv_wild.gif" width="250"/>    
+<img src="/files/anymalrisky_iros24.gif" width="250"/><img src="/files/anymalrisky2_iros24.gif" width="250"/><img src="/files/anymal_adv_indoor.gif" width="250"/>    
+<img src="/files/anymal_adv_wild.gif" width="250"/><img src="/files/abs_snow.gif" width="250"/><img src="/files/anymal_adv_wild.gif" width="250"/><img src="/files/robustness_h2o.gif" width="250"/>         
