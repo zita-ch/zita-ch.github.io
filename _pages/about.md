@@ -15,3 +15,7 @@ I am interested in learning and control for legged robots in the **real world**.
 I am a reviewer for RSS (2024), ICRA(2023-2024), IROS (2022-2024), ACC(2022), RA-Letters, ISA Transaction.
 
 You can check my publications [here](https://zita-ch.github.io/publications) and my academic honors [here](https://zita-ch.github.io/honors).
+  
+    
+![anymal_beam](files/anymalrisky_iros24.gif) ![anymal_stone](files/anymalrisk2y_iros24.gif)   
+![anymal_adv](files/anymal_adv_indoor.gif) ![anymal_adv_wild](files/anymal_adv_wild.gif)   
