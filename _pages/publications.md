@@ -21,7 +21,7 @@ author_profile: true
 + [_Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers._](https://arxiv.org/abs/2405.12424)    
   Fan Shi\*, **Chong Zhang\***, Takahiro Miki, Joonho Lee, Marco Hutter, and Stelian Coros.     
   2024 Robotics: Science and Systems (RSS).       
-  [\[Video\]](https://www.youtube.com/watch?v=WMgUrhZ2Tps)   
+  [\[Video\]](https://www.youtube.com/watch?v=WMgUrhZ2Tps) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-multitasking)   
 
 + [_Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion_](https://arxiv.org/pdf/2401.17583.pdf)   
   Tairan He\*, **Chong Zhang\***, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi  
@@ -32,7 +32,7 @@ author_profile: true
   **Chong Zhang\***, Jin Jin\*, Jonas Frey, Nikita Rudin, Matias Mattamala, Cesar Cadena, Marco Hutter  
   2024 IEEE International Conference on Robotics and Automation (ICRA).   
   **Finalist of ICRA Best Paper Award in Cognitive Robotics**      
-  [\[Website\]](https://sites.google.com/leggedrobotics.com/resilient-navigation)
+  [\[Website\]](https://sites.google.com/leggedrobotics.com/resilient-navigation) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-punch-out)    
 
 + [_Learning Agile Locomotion on Risky Terrains_](https://arxiv.org/abs/2311.10484)  
   **Chong Zhang**, Nikita Rudin, David Hoeller, Marco Hutter  
