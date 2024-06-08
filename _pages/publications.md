@@ -53,11 +53,7 @@ author_profile: true
   2022 IEEE International Conference on Robotics and Automation (ICRA)   
    [\[Oral Presentation\]](/files/ICRA22_2387.mp4)    
 
-+ [_Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles_](https://arxiv.org/pdf/2204.04157.pdf).  
-  Qi Wu\*, **Chong Zhang\***, Yanchen Liu  
-  2022 IEEE International Conference on Mechatronics and Automation (ICMA)   
-  Finalist of Toshio Fukuda Best Paper Award in Mechatroincs  
-  [\[Oral Presentation\]](/files/icma2022oral_compressed.pdf)           
+        
 
 
 ### Cooperations:  
