@@ -17,20 +17,24 @@ author_profile: true
 
 ### (Co-)Led by me:  
 
++ [_WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts_](tbd)    
+  **Chong Zhang\***, Wenli Xiao\*, Tairan He, Guanya Shi     
+  Under Review         
+  [\[Website\]](https://lecar-lab.github.io/wococo/) [\[Video tbd\]](/)    
 
-+ [_Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers._](https://arxiv.org/abs/2405.12424)    
-  Fan Shi\*, **Chong Zhang\***, Takahiro Miki, Joonho Lee, Marco Hutter, and Stelian Coros.     
-  2024 Robotics: Science and Systems (RSS).       
++ [_Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers_](https://arxiv.org/abs/2405.12424)    
+  Fan Shi\*, **Chong Zhang\***, Takahiro Miki, Joonho Lee, Marco Hutter, and Stelian Coros     
+  2024 Robotics: Science and Systems (RSS)        
   [\[Video\]](https://www.youtube.com/watch?v=WMgUrhZ2Tps) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-multitasking)   
 
 + [_Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion_](https://arxiv.org/pdf/2401.17583.pdf)   
   Tairan He\*, **Chong Zhang\***, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi  
-  2024 Robotics: Science and Systems (RSS).     
+  2024 Robotics: Science and Systems (RSS)      
   [\[Website\]](https://agile-but-safe.github.io/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-agile-but-safe)
 
 + [_Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End_](https://arxiv.org/pdf/2310.03581.pdf)  
   **Chong Zhang\***, Jin Jin\*, Jonas Frey, Nikita Rudin, Matias Mattamala, Cesar Cadena, Marco Hutter  
-  2024 IEEE International Conference on Robotics and Automation (ICRA).   
+  2024 IEEE International Conference on Robotics and Automation (ICRA)    
   **Finalist of ICRA Best Paper Award in Cognitive Robotics**      
   [\[Website\]](https://sites.google.com/leggedrobotics.com/resilient-navigation) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-punch-out)    
 
@@ -46,18 +50,23 @@ author_profile: true
 
 + [_Accessibility-Based Clustering for Efficient Learning of Locomotion Skills_](https://arxiv.org/abs/2109.11191).   
   **Chong Zhang\***, Wanming Yu\*, Zhibin Li  
-  2022 IEEE International Conference on Robotics and Automation (ICRA).  
+  2022 IEEE International Conference on Robotics and Automation (ICRA)   
    [\[Oral Presentation\]](/files/ICRA22_2387.mp4)    
 
 + [_Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles_](https://arxiv.org/pdf/2204.04157.pdf).  
   Qi Wu\*, **Chong Zhang\***, Yanchen Liu  
-  2022 IEEE International Conference on Mechatronics and Automation (ICMA).  
-  Finalist of Toshio Fukuda Best Paper Award in Mechatroincs.  
+  2022 IEEE International Conference on Mechatronics and Automation (ICMA)   
+  Finalist of Toshio Fukuda Best Paper Award in Mechatroincs  
   [\[Oral Presentation\]](/files/icma2022oral_compressed.pdf)           
 
 
 ### Cooperations:  
 
++ [_OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning_](https://omni.human2humanoid.com/resources/OmniH2O_paper.pdf)   
+  Tairan He\*, Zhengyi Luo\*, Xialin He\*, Wenli Xiao, **Chong Zhang**, Weinan Zhang, Kris Kitani, Changliu Liu, Guanya Shi       
+  Under Review    
+  [\[Website: omni.human2humanoid.com\]](https://omni.human2humanoid.com/)       
+    
 + [_Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation_](https://human2humanoid.com/resources/H2O_paper.pdf)  
   Tairan He\*, Zhengyi Luo\*, Wenli Xiao, **Chong Zhang**, Kris Kitani, Changliu Liu, Guanya Shi  
   Under Review    
