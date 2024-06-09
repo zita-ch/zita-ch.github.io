@@ -10,7 +10,7 @@ redirect_from:
 
 I am **Chong Zhang**, a master student in Robotics at ETH Zürich (2022-2025). I am with [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) for my research. I am currently visiting [LeCAR Lab](https://lecar-lab.github.io/) at CMU (2024). I earned my bachelor’s degree from Tsinghua University (2018-2022).       
 
-I am interested in learning and control for legged robots in the **real world**. I am open to new collaborations with cool ideas -- just drop me an email!
+I am interested in **real world** applications of legged systems. Three topics are covered: 1) **resilience** against environmental uncertainties, 2) predictable **reliability** before deployment, 3) **skillful** sensorimotor movements. I am open to new collaborations -- just drop me an email with cool ideas!
 
 I am a reviewer for RSS (2024), ICRA(2023-2024), IROS (2022-2024), ACC(2022), RA-Letters, ISA Transaction.
 
