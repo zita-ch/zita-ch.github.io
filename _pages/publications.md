@@ -17,7 +17,7 @@ author_profile: true
 
 ### (Co-)Led by me:  
 
-+ [_WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts_](tbd)    
++ [_WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts_](https://arxiv.org/abs/2406.06005)    
   **Chong Zhang\***, Wenli Xiao\*, Tairan He, Guanya Shi     
   Under Review         
   [\[Website\]](https://lecar-lab.github.io/wococo/) [\[Video tbd\]](/)    
