@@ -20,7 +20,7 @@ author_profile: true
 + [_WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts_](https://arxiv.org/abs/2406.06005)    
   **Chong Zhang\***, Wenli Xiao\*, Tairan He, Guanya Shi     
   Under Review         
-  [\[Website\]](https://lecar-lab.github.io/wococo/) [\[Video tbd\]](/)    
+  [\[Website\]](https://lecar-lab.github.io/wococo/) [\[Video Teaser\]](https://youtu.be/L18X-QbXqPI?feature=shared/) [\[Video Intro\]](https://youtu.be/_S6DNhPDuTw?feature=shared/)       
 
 + [_Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers_](https://arxiv.org/abs/2405.12424)    
   Fan Shi\*, **Chong Zhang\***, Takahiro Miki, Joonho Lee, Marco Hutter, and Stelian Coros     
