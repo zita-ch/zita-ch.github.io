@@ -20,7 +20,7 @@ author_profile: true
 + [_WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts_](https://arxiv.org/abs/2406.06005)    
   **Chong Zhang\***, Wenli Xiao\*, Tairan He, Guanya Shi     
   Under Review         
-  [\[Website\]](https://lecar-lab.github.io/wococo/) [\[Video Teaser\]](https://youtu.be/L18X-QbXqPI?feature=shared/) [\[Video Intro\]](https://youtu.be/_S6DNhPDuTw?feature=shared/)       
+  [\[Website\]](https://lecar-lab.github.io/wococo/) [\[Video Teaser\]](https://youtu.be/L18X-QbXqPI?feature=shared/) [\[Video Intro\]](https://youtu.be/_S6DNhPDuTw?feature=shared/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-drone-vs-flying-canoe)      
 
 + [_Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers_](https://arxiv.org/abs/2405.12424)    
   Fan Shi\*, **Chong Zhang\***, Takahiro Miki, Joonho Lee, Marco Hutter, and Stelian Coros     
@@ -61,7 +61,7 @@ author_profile: true
 + [_OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning_](https://omni.human2humanoid.com/resources/OmniH2O_paper.pdf)   
   Tairan He\*, Zhengyi Luo\*, Xialin He\*, Wenli Xiao, **Chong Zhang**, Weinan Zhang, Kris Kitani, Changliu Liu, Guanya Shi       
   Under Review    
-  [\[Website: omni.human2humanoid.com\]](https://omni.human2humanoid.com/)       
+  [\[Website: omni.human2humanoid.com\]](https://omni.human2humanoid.com/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-drone-vs-flying-canoe)         
     
 + [_Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation_](https://human2humanoid.com/resources/H2O_paper.pdf)  
   Tairan He\*, Zhengyi Luo\*, Wenli Xiao, **Chong Zhang**, Kris Kitani, Changliu Liu, Guanya Shi  
