@@ -45,7 +45,7 @@ author_profile: true
 
 + [_Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning_](https://arxiv.org/pdf/2208.07681.pdf).  
   **Chong Zhang**, Lizhi Yang  
-  2023 IEEE International Conference on Robotics and Automation (ICRA).  
+  2023 IEEE International Conference on Robotics and Automation (ICRA)    
   [\[Github\]](https://github.com/zita-ch/terrain_benchmark)  
 
 + [_Accessibility-Based Clustering for Efficient Learning of Locomotion Skills_](https://arxiv.org/abs/2109.11191).   
