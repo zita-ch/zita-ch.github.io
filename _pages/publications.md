@@ -40,7 +40,7 @@ author_profile: true
 
 + [_Learning Agile Locomotion on Risky Terrains_](https://arxiv.org/abs/2311.10484)  
   **Chong Zhang**, Nikita Rudin, David Hoeller, Marco Hutter  
-  Under Review  
+  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)       
   [\[Video\]](https://www.youtube.com/watch?v=Z5X0J8OH6z4)   
 
 + [_Generating a Terrain-Robustness Benchmark for Legged Locomotion: A Prototype via Terrain Authoring and Active Learning_](https://arxiv.org/pdf/2208.07681.pdf).  
@@ -65,5 +65,5 @@ author_profile: true
     
 + [_Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation_](https://human2humanoid.com/resources/H2O_paper.pdf)  
   Tairan He\*, Zhengyi Luo\*, Wenli Xiao, **Chong Zhang**, Kris Kitani, Changliu Liu, Guanya Shi  
-  Under Review    
+  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)         
   [\[Website: human2humanoid.com\]](https://human2humanoid.com/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-human-to-humanoid)    
