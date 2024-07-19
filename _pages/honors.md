@@ -12,6 +12,11 @@ author_profile: true
 
 ### Outstanding Papers:  
 
++ 2024 Robotics: Science and Systems (RSS)    
+  Finalist of Outstanding Student Paper Award    
+  Paper: [_Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion_](https://arxiv.org/pdf/2401.17583.pdf)    
+  Authors: Tairan He\*, **Chong Zhang\***, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi     
+
 + 2024 IEEE International Conference on Robotics and Automation (ICRA)  
   Finalist of ICRA Best Paper Award in Cognitive Robotics     
   Paper: [_Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End_](https://arxiv.org/pdf/2310.03581.pdf)  

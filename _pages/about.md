@@ -14,7 +14,7 @@ I am interested in **real world** applications of legged systems. Three topics a
 
 I am a reviewer for RSS (2024), ICRA(2023-2024), IROS (2022-2024), ACC(2022), RA-Letters, ISA Transaction.
 
-You can check my publications [here](https://zita-ch.github.io/publications) and my academic honors [here](https://zita-ch.github.io/honors).
+You can check my publications [here](https://zita-ch.github.io/publications) and my academic honors [here](https://zita-ch.github.io/honors). I received finalist awards in RSS 2024 and ICRA 2024.  
   
     
 <img src="/files/anymalrisky_iros24.gif" width="250"/><img src="/files/anymalrisky2_iros24.gif" width="250"/><img src="/files/anymal_adv_indoor.gif" width="250"/>

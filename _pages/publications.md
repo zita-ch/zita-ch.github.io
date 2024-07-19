@@ -30,6 +30,7 @@ author_profile: true
 + [_Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion_](https://arxiv.org/pdf/2401.17583.pdf)   
   Tairan He\*, **Chong Zhang\***, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi  
   2024 Robotics: Science and Systems (RSS)      
+  **Finalist of Outstanding Student Paper Award**      
   [\[Website\]](https://agile-but-safe.github.io/) [\[IEEE Spectrum\]](https://spectrum.ieee.org/video-friday-agile-but-safe)
 
 + [_Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End_](https://arxiv.org/pdf/2310.03581.pdf)  
