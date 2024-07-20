@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am **Chong Zhang**, a master student in Robotics at ETH Zürich (2022-2025). I am with [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) for my research. I am currently visiting [LeCAR Lab](https://lecar-lab.github.io/) at CMU (2024). I earned my bachelor’s degree from Tsinghua University (2018-2022).       
+I am **Chong Zhang**, a master student in Robotics at ETH Zürich (2022-2025). I am with [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) for my research. I visited [LeCAR Lab](https://lecar-lab.github.io/) at CMU (2024). I earned my bachelor’s degree from Tsinghua University (2018-2022).       
 
 I am interested in **real world** applications of legged systems. Three topics are covered: 1) resilience against environmental uncertainties, 2) predictable reliability before deployment, 3) skillful sensorimotor movements.  
 
