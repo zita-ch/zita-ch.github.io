@@ -12,7 +12,7 @@ I am **Chong Zhang**, a master student in Robotics at ETH Zürich (2022-2025). I
 
 I am interested in **real world** applications of legged systems. Three topics are covered: 1) resilience against environmental uncertainties, 2) predictable reliability before deployment, 3) skillful sensorimotor movements.  
 
-I am a reviewer for RSS (2024), ICRA(2023-2024), IROS (2022-2024), ACC(2022), RA-Letters, ISA Transaction.  I received finalist awards at RSS 2024 and ICRA 2024.   
+I am a reviewer for RSS (2024), ICRA(2023-2025), IROS (2022-2024), ACC(2022), RA-Letters, ISA Transaction.  I received finalist awards at RSS 2024 and ICRA 2024.   
 
 You can check my publications [here](https://zita-ch.github.io/publications) and my academic honors [here](https://zita-ch.github.io/honors).
   
