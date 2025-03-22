@@ -60,6 +60,12 @@ author_profile: true
 
 ### Cooperations:  
 
++ [_Bridging Adaptivity and Safety:
+Learning Agile Collision-Free Locomotion
+Across Varied Physics_](https://arxiv.org/abs/2501.04276)  
+Yichao Zhong, **Chong Zhang**, Tairan He, Guanya Shi   
+[\[Website\]](https://adaptive-safe-locomotion.github.io/) [\[Video\]](https://adaptive-safe-locomotion.github.io/assets/file/BAS-video.mp4)  
+
 + [_OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning_](https://omni.human2humanoid.com/resources/OmniH2O_paper.pdf)   
   Tairan He\*, Zhengyi Luo\*, Xialin He\*, Wenli Xiao, **Chong Zhang**, Weinan Zhang, Kris Kitani, Changliu Liu, Guanya Shi       
   2024 Conference on Robot Learning (CoRL)          
