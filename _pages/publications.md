@@ -17,6 +17,10 @@ author_profile: true
 
 ### (Co-)Led by me:  
 
++ [_\******* Learning Generalized Legged Locomotion_]()  
+  \*******  
+  Science Robotics  
+
 + [_WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts_](https://arxiv.org/abs/2406.06005)    
   **Chong Zhang\***, Wenli Xiao\*, Tairan He, Guanya Shi     
   2024 Conference on Robot Learning (CoRL)  
