@@ -29,6 +29,3 @@ author_profile: true
   Authors: Qi Wu\*, **Chong Zhang\***, Yanchen Liu   
 
 
-### Other Honors:   
-
-+ tba 
