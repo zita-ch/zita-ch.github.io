@@ -17,9 +17,9 @@ author_profile: true
 
 ### (Co-)Led by me:  
 
-+ [_Attention-Based Map Encoding for Learning Generalized Legged Locomotion_](https://arxiv.org/abs/2506.09588)  
++ [_Attention-Based Map Encoding for Learning Generalized Legged Locomotion_](https://www.science.org/doi/10.1126/scirobotics.adv3604)  
   Junzhe He\*, **Chong Zhang\***, Fabian Jenelten, Ruben Grandia, Moritz BÄcher, Marco Hutter   
-  2025 arXiv   
+  Science Robotics 2025     
 
 + [_WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts_](https://arxiv.org/abs/2406.06005)    
   **Chong Zhang\***, Wenli Xiao\*, Tairan He, Guanya Shi     
