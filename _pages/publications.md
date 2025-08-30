@@ -18,7 +18,7 @@ author_profile: true
 ### (Co-)Led by me:  
 
 + [_Attention-Based Map Encoding for Learning Generalized Legged Locomotion_](https://www.science.org/doi/10.1126/scirobotics.adv3604)  
-  Junzhe He\*, **Chong Zhang\***, Fabian Jenelten, Ruben Grandia, Moritz BÄcher, Marco Hutter   
+  Junzhe He\*, **Chong Zhang\***, Fabian Jenelten, Ruben Grandia, Moritz Bächer, Marco Hutter   
   Science Robotics 2025   
   [\[Free Access Reprint\]](https://www.science.org/stoken/author-tokens/ST-2851/full) [\[Main Video\]](https://www.youtube.com/watch?v=GUgwB6WxcFo)      
 
