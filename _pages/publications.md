@@ -17,6 +17,11 @@ author_profile: true
 
 ### (Co-)Led by me:  
 
++ [_AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding_](https://arxiv.org/abs/2601.08485)  
+  **Chong Zhang**, Victor Klemm, Fan Yang, Marco Hutter  
+  Under Review  
+  [\[Website\]](https://sites.google.com/leggedrobotics.com/ame-2)
+
 + [_Attention-Based Map Encoding for Learning Generalized Legged Locomotion_](https://www.science.org/doi/10.1126/scirobotics.adv3604)  
   Junzhe He\*, **Chong Zhang\***, Fabian Jenelten, Ruben Grandia, Moritz Bächer, Marco Hutter   
   Science Robotics 2025   
