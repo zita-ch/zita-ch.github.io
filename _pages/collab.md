@@ -31,4 +31,4 @@ I regularly post project ideas on SIROP. For these, I typically look for:
 - **Strong engineering skills, sufficient time commitment, a research mindset, and clear communication.**
 - **Research experience is a plus**, but not required.
 
-**Note:** For projects where I’m significantly involved and directing, I aim to ensure the work leads to meaningful results for the robotics community. Rather than searching for the “perfect” student, I prioritize a good-enough fit that can start ASAP.
+**Note:** For projects where I’m significantly involved and directing, I aim to ensure the work leads to meaningful results for the robotics community. Rather than searching for the “perfect” student, I prioritize a good-enough fit that can start ASAP. I enjoy working with active creators, rather than those who wait for assignments.
