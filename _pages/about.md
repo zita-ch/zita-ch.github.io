@@ -14,7 +14,7 @@ I am interested in **real world** applications of trustworthy and capable legged
 
 I am a reviewer for SciRo, RSS, CoRL, L4DC, ICRA, IROS, ACC, RA-Letters, RAS, ISA Transaction.  I received finalist awards at RSS 2024 and ICRA 2024.   
 
-You can check my publications [here](https://zita-ch.github.io/publications) and my academic honors [here](https://zita-ch.github.io/honors).
+You can check my publications [here](/publications/) and my academic honors [here](/honors/).
   
     
 <img src="/files/sciro.png" style="width: 250px !important; height: 141px !important;"/><img src="/files/srdebris.gif" width="250"/><img src="/files/anymal_adv_indoor.gif" width="250"/>
