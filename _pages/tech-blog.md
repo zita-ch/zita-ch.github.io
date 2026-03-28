@@ -5,6 +5,8 @@ permalink: /tech-blog/
 author_profile: true
 ---
 
+<p class="text-muted">All blogs are synced from <a href="https://github.com/zita-ch/techblogs">https://github.com/zita-ch/techblogs</a></p>
+
 <div id="tech-blog-container">
   <div id="blog-list" class="archive">
     <p><i class="fas fa-spinner fa-spin"></i> Loading posts...</p>
