@@ -32,34 +32,43 @@ author_profile: true
     const postContainer = document.getElementById('blog-post');
     const contentDiv = document.getElementById('post-content');
 
-    if (postFile) {
-      // Load individual post
-      listContainer.style.display = 'none';
-      postContainer.style.display = 'block';
-      try {
+    if (!listContainer || !postContainer || !contentDiv) return;
+
+    try {
+      if (postFile) {
+        // Load individual post
+        listContainer.style.display = 'none';
+        postContainer.style.display = 'block';
+        
         const response = await fetch(`${RAW_URL}${postFile}`);
-        if (!response.ok) throw new Error('Post not found');
+        if (!response.ok) throw new Error(`Post not found: ${postFile}`);
         const markdown = await response.text();
         
         // Handle frontmatter if present (basic strip)
         const content = markdown.replace(/^---[\s\S]*?---/, '');
-        contentDiv.innerHTML = marked.parse(content);
+        
+        // Compatibility check for different marked.js versions
+        if (typeof marked === 'undefined') {
+          throw new Error('Markdown library failed to load. Please check your internet connection or ad-blocker.');
+        }
+        const html = (typeof marked.parse === 'function') ? marked.parse(content) : marked(content);
+        contentDiv.innerHTML = html;
         
         // Update page title if possible
         const titleMatch = markdown.match(/^title:\s*"(.*?)"/m) || markdown.match(/^title:\s*(.*?)$/m);
         if (titleMatch) {
             document.title = `${titleMatch[1]} | Tech Blog`;
         }
-      } catch (error) {
-        contentDiv.innerHTML = `<p>Error loading post: ${error.message}</p>`;
-      }
-    } else {
-      // Load list of posts
-      listContainer.style.display = 'block';
-      postContainer.style.display = 'none';
-      try {
+      } else {
+        // Load list of posts
+        listContainer.style.display = 'block';
+        postContainer.style.display = 'none';
+        
         const response = await fetch(API_URL);
-        if (!response.ok) throw new Error('Failed to fetch file list');
+        if (response.status === 403) {
+           throw new Error('GitHub API rate limit exceeded. Please try again in 15-30 minutes.');
+        }
+        if (!response.ok) throw new Error(`Failed to fetch file list (Status: ${response.status})`);
         const files = await response.json();
         
         // Filter out system files and the template
@@ -76,7 +85,6 @@ author_profile: true
 
         let html = '<ul class="post-list">';
         for (const file of mdFiles) {
-          // Try to extract date from YYYY-MM-DD-title.md
           const dateMatch = file.name.match(/^(\d{4}-\d{2}-\d{2})-(.*)\.md$/);
           let displayName, dateDisplay = '';
           
@@ -98,14 +106,21 @@ author_profile: true
         }
         html += '</ul>';
         listContainer.innerHTML = html;
-      } catch (error) {
-        listContainer.innerHTML = `<p>Error loading blog list: ${error.message}</p>`;
       }
+    } catch (error) {
+      console.error('Tech Blog Error:', error);
+      const target = postFile ? contentDiv : listContainer;
+      target.innerHTML = `
+        <div class="notice--danger">
+          <p><strong>Error:</strong> ${error.message}</p>
+          <button onclick="location.reload()" class="btn btn--primary">Retry</button>
+        </div>`;
     }
   }
 
+  // Ensure scripts are loaded before running
+  window.addEventListener('load', loadBlog);
   window.addEventListener('popstate', loadBlog);
-  loadBlog();
 </script>
 
 <style>
