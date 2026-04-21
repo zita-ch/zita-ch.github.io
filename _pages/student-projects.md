@@ -9,6 +9,7 @@ author_profile: true
 
 Here are the student projects I have significantly supervised.
 
-{% for post in site.portfolio %}
+{% assign portfolio_projects = site.portfolio | sort: "sort_order" %}
+{% for post in portfolio_projects %}
   {% include archive-single.html %}
 {% endfor %}
