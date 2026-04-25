@@ -12,7 +12,7 @@ I am **Chong Zhang**, a first-year PhD student in Robotics at ETH AI Center (202
 
 I am interested in **real world** applications of trustworthy and capable robotic systems.   
 
-I am a reviewer for SciRo, RSS, CoRL, L4DC, ICRA, IROS, ACC, RA-Letters, RAS, ISA Transaction.  I received finalist awards at RSS 2024 and ICRA 2024.   
+I am a reviewer for SciRo, RSS, T-RL, CoRL, L4DC, ICRA, IROS, ACC, RA-Letters, RAS, ISA Transaction.  I received finalist awards at RSS 2024 and ICRA 2024.   
 
 You can check my publications [here](/publications/) and my academic honors [here](/honors/).
   
