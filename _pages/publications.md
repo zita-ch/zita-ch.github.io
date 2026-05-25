@@ -70,6 +70,16 @@ author_profile: true
 
 ### Cooperations:  
 
++ [_Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking_](https://arxiv.org/abs/2604.17335)  
+  Zewei Zhang, Kehan Wen, Michael Xu, Junzhe He, Chenhao Li, Takahiro Miki, Clemens Schwarke, **Chong Zhang**, Xue Bin Peng, Marco Hutter  
+  2026 Under Review     
+  [\[Website\]](https://wholebodylocomotion.github.io/)
+
++ [_FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes_](https://arxiv.org/abs/2604.17513)  
+  Siyuan Luo, Bingyang Zhou, **Chong Zhang**, Xin Liu, Zhenhao Huang, Gang Yang, Zhengtao Han, Xiaotian Hu, Eric Yang, Rymon Yu, Ziqiu Zeng, Fan Shi  
+  2026 Arxiv    
+  [\[Website: TBD\]]()
+
 + [_Bridging Adaptivity and Safety:
   Learning Agile Collision-Free Locomotion
   Across Varied Physics_](https://arxiv.org/abs/2501.04276)  
