@@ -77,7 +77,7 @@ author_profile: true
 
 + [_FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes_](https://arxiv.org/abs/2604.17513)  
   Siyuan Luo, Bingyang Zhou, **Chong Zhang**, Xin Liu, Zhenhao Huang, Gang Yang, Zhengtao Han, Xiaotian Hu, Eric Yang, Rymon Yu, Ziqiu Zeng, Fan Shi  
-  2026 Arxiv    
+  2026 ISRR    
   [\[Website: TBD\]]()
 
 + [_Bridging Adaptivity and Safety:
