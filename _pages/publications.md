@@ -70,6 +70,11 @@ author_profile: true
 
 ### Cooperations:  
 
++ [_Learning Agile Perceptive Traversal of Sparse 3D Structures for Humanoids_](https://arxiv.org/abs/2608.29769)  
+  Efe Ongan, **Chong Zhang**, Boyang Sun, Andrei Cramariuc, Cesar Cadena, Marco Hutter  
+  2026 arXiv      
+  [\[Website\]](https://nemantor.github.io/sparse-3d-traversal-website/)
+
 + [_Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking_](https://arxiv.org/abs/2604.17335)  
   Zewei Zhang, Kehan Wen, Michael Xu, Junzhe He, Chenhao Li, Takahiro Miki, Clemens Schwarke, **Chong Zhang**, Xue Bin Peng, Marco Hutter  
   2026 RA-L      
