@@ -17,6 +17,6 @@ I am a reviewer for SciRo, RSS, T-RL, CoRL, L4DC, ICRA, IROS, ACC, NIPS, RA-Lett
 You can check my publications [here](/publications/) and my academic honors [here](/honors/).
   
     
-<img src="/files/sciro.png" style="width: 250px !important; height: 141px !important;"/><img src="/files/srdebris.gif" width="250"/><img src="/files/anymal_adv_indoor.gif" width="250"/>
-<img src="/files/anymal_adv_wild.gif" width="250"/><img src="/files/abs_snow.gif" width="250"/><img src="/files/anymalParkour.gif" width="250"/>
-<img src="/files/anymal_blindnav.gif" width="250"/><img src="/files/wococo_parkour.gif" width="250"/><img src="/files/wococo_locomani.gif" width="250"/>         
+<img src="/files/sciro.png" style="width: 250px !important; height: 141px !important;"/><img src="/files/srdebris.gif" width="250"/><img src="/files/acp_atomic_skills.gif" width="250"/>
+<img src="/files/ladder_attn.gif" width="250"/><img src="/files/abs_snow.gif" width="250"/><img src="/files/anymalParkour.gif" width="250"/>
+<img src="/files/pants_folding.gif" width="250"/><img src="/files/anymal_adv_indoor.gif" width="250"/><img src="/files/wococo_locomani.gif" width="250"/>         
