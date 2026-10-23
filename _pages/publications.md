@@ -17,6 +17,11 @@ author_profile: true
 
 ### (Co-)Led by me:  
 
++ [_Humanoid Mobility via Attention-based Contacts_](https://arxiv.org/abs/2610.31608)  
+  Junzhe He\*, Kehan Wen\*, **Chong Zhang\***, Clemens Schwarke, Zewei Zhang, Kaixian Qu, Siyuan Hu, Matthias Müller, Vladlen Koltun, Marco Hutter  
+  2026 arXiv      
+  [\[Website\]](https://leggedrobotics.github.io/ACP/)
+
 + [_AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding_](https://arxiv.org/abs/2601.08485)  
   **Chong Zhang**, Victor Klemm, Fan Yang, Marco Hutter  
   IEEE Transactions on Robotics (T-RO) 2026   
