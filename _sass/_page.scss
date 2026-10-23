@@ -16,6 +16,68 @@
   }
 }
 
+.site-banner {
+  /* tuck up under the nav, and let the title overlap the faded bottom edge
+     (percentage margins are relative to width; banner is 40% of width) */
+  position: relative;
+  z-index: -1;
+  margin-bottom: -5%;
+
+  /* on desktop, shift up 10% of banner height (4% of width), text stays put */
+  @include breakpoint($large) {
+    margin-top: calc(-1.5em - 4%);
+    margin-bottom: -1%;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 5 / 2;
+    opacity: 0.9;
+    /* softly fade the edges into the page */
+    -webkit-mask-image: linear-gradient(to bottom, transparent, #000 6%, #000 55%, transparent),
+                        linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+    -webkit-mask-composite: source-in;
+            mask-image: linear-gradient(to bottom, transparent, #000 6%, #000 55%, transparent),
+                        linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+            mask-composite: intersect;
+  }
+
+  /* faint wash behind the title on every page but home */
+  &--subtle {
+    position: absolute;
+    top: -0.5em;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    height: 17em;
+    margin: 0;
+    background-size: cover;
+    background-position: center 40%;
+    opacity: 0.25;
+    pointer-events: none;
+    /* fade out on every edge */
+    -webkit-mask-image: linear-gradient(to bottom, transparent, #000 25%, #000 55%, transparent),
+                        linear-gradient(to right, transparent, #000 20%, #000 80%, transparent);
+    -webkit-mask-composite: source-in;
+            mask-image: linear-gradient(to bottom, transparent, #000 25%, #000 55%, transparent),
+                        linear-gradient(to right, transparent, #000 20%, #000 80%, transparent);
+            mask-composite: intersect;
+  }
+}
+
+.page,
+.archive {
+  position: relative;
+  isolation: isolate;
+}
+
+.site-banner--subtle ~ .page__title,
+.site-banner--subtle ~ .page__inner-wrap {
+  padding-top: 8rem;
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);

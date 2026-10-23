@@ -1,0 +1,12 @@
+{% if page.url == "/" %}
+<div class="site-banner">
+  <img src="{{ base_path }}/images/banner.jpg"
+       srcset="{{ base_path }}/images/banner-960.jpg 960w, {{ base_path }}/images/banner.jpg 1920w"
+       sizes="(max-width: 925px) calc(100vw - 2em), 800px"
+       width="1920" height="768" fetchpriority="high" decoding="async"
+       alt="Humanoid robots climbing a wall, a ladder, and leaping onto a box">
+</div>
+{% else %}
+<div class="site-banner site-banner--subtle" aria-hidden="true"
+     style="background-image: url('{{ base_path }}/images/banner-960.jpg')"></div>
+{% endif %}
